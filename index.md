@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Homepage
-date: 2017-11-22T23:00:00.000+00:00
+date: 
 page_sections:
 - template: navigation-header-w-button
   block: header-2
@@ -18,8 +18,8 @@ page_sections:
   - link: "#blocks"
     link_text: Blocks
   cta:
-    url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-    button_text: Import
+    url: https://apps.apple.com/us/app/aviator-logbook/id1550574251
+    button_text: Download
 - template: hero-banner-w-image
   block: hero-2
   slug: features

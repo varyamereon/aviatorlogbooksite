@@ -95,18 +95,18 @@ p {
 }
 
 .button.primary {
-    background-color: #ffcb3c;
-    color: #fff
+    background-color: #f34b47;
+    color: #f2f3f4
 }
 
 .button.primary.inverted {
-    background-color: #fff;
-    color: #000
+    background-color: #f2f3f4;
+    color: #2f3131
 }
 
 .button.secondary {
     background-color: transparent;
-    border: 1.5px solid #ffcb3c
+    border: 1.5px solid #f34b47
 }
 
 .button.small {
@@ -118,13 +118,13 @@ p {
 
 input {
     border: none;
-    border-bottom: 1px solid #000;
+    border-bottom: 1px solid #2f3131;
     font-size: 16px;
     font-size: 1rem;
     padding: 12.8px;
     padding: .8rem;
     background: none;
-    color: #000
+    color: #2f3131
 }
 
 input::-webkit-input-placeholder {
@@ -140,9 +140,9 @@ input::placeholder {
 }
 
 input.inverted {
-    border-bottom: 1px solid #fff;
-    color: #000;
-    background: #fff;
+    border-bottom: 1px solid #f2f3f4;
+    color: #2f3131;
+    background: #f2f3f4;
     border-radius: .3rem
 }
 
@@ -184,7 +184,7 @@ input.inverted::placeholder {
 }
 
 .block-header-1 .nav-item.active a {
-    color: #ffcb3c
+    color: #f34b47
 }
 
 .block-header-1 .nav-item a {
@@ -197,7 +197,7 @@ input.inverted::placeholder {
 }
 
 .block-header-1 .nav-item.active a:hover {
-    color: #ffcb3c
+    color: #f34b47
 }
 
 .block-header-1 .nav-item:last-of-type {
@@ -237,7 +237,7 @@ input.inverted::placeholder {
 }
 
 .block-header-2 .nav-item.active a {
-    color: #ffcb3c
+    color: #f34b47
 }
 
 .block-header-2 .nav-item a {
@@ -250,7 +250,7 @@ input.inverted::placeholder {
 }
 
 .block-header-2 .nav-item.active a:hover {
-    color: #ffcb3c
+    color: #f34b47
 }
 
 .block-header-2 .nav-item:last-of-type {
@@ -271,7 +271,7 @@ input.inverted::placeholder {
     align-items: center;
     padding: 16px 32px;
     padding: 1rem 2rem;
-    background-color: #fff
+    background-color: #f2f3f4
 }
 
 .block-header-3--logo img {
@@ -280,8 +280,8 @@ input.inverted::placeholder {
 }
 
 .block-hero-1 {
-    --bg: #ffcb3c;
-    --text: #fff;
+    --bg: #2e9ef1;
+    --text: #f2f3f4;
     display: -ms-flexbox;
     display: flex;
     -ms-flex-direction: column;
@@ -303,8 +303,8 @@ input.inverted::placeholder {
 }
 
 .block-hero-2 {
-    --bg: #ffcb3c;
-    --text: #fff;
+    --bg: #2e9ef1;
+    --text: #f2f3f4;
     -ms-flex-direction: column;
     flex-direction: column;
     -ms-flex-pack: center;
@@ -353,7 +353,7 @@ input.inverted::placeholder {
 .block-hero-2 .column.text p {
     margin: 16px 0 32px;
     margin: 1rem 0 2rem;
-    color: #fff;
+    color: #f2f3f4;
     font-size: 16px;
     font-size: 1rem
 }
@@ -468,8 +468,8 @@ input.inverted::placeholder {
 .block-cta-bar {
     padding: 32px;
     padding: 2rem;
-    background: #ffcb3c;
-    color: #fff
+    background: #2e9ef1;
+    color: #f2f3f4
 }
 
 .block-cta-bar .columns {
@@ -498,7 +498,7 @@ input.inverted::placeholder {
 .block-cta-bar .text p {
     font-size: 20px;
     font-size: 1.25rem;
-    color: #fff
+    color: #f2f3f4
 }
 
 .block-cta-bar .cta {
@@ -806,16 +806,16 @@ body {
 }
 
 ::-moz-selection {
-    background: #ffedbc;
+    background: #f56b68;
     color: #333
 }
 
 ::-webkit-selection {
-    background: #ffedbc;
+    background: #f56b68;
     color: #333
 }
 
 ::selection {
-    background: #ffedbc;
+    background: #f56b68;
     color: #333
 }

@@ -34,5 +34,13 @@ page_sections:
     href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
     href="/privacy" title="Privacy &amp; Terms" target="_blank">Privacy &amp; Terms</a>
   col_4: "© Spree Forty Three 2021"
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2021/03/30/google-play-badge.png"
+    caption: ''
+  image_2:
+    image: ''
+    caption: ''
 
 ---

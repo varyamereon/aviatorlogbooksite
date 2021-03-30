@@ -13,7 +13,7 @@ page_sections:
     link_text: Features
   - link: "/pricing"
     link_text: Pricing
-  - link: docs.aviatorlogbook.app
+  - link: https://docs.aviatorlogbook.app
     link_text: Documentation
   - link: spreefortythree.freshdesk.com
     link_text: Support

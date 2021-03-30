@@ -20,15 +20,16 @@ page_sections:
   cta:
     url: https://apps.apple.com/us/app/aviator-logbook/id1550574251
     button_text: Download
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: Headline
-  slug: ''
-  content: Content
-  media:
-    image: "/uploads/2018/06/21/blocks-split.png"
-    alt_text: ''
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: Free
+    slug: free
+    content: "- A<br>- B"
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2018/06/21/forestry-symbol.svg"

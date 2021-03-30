@@ -22,21 +22,7 @@ page_sections:
     button_text: Download
 - template: text-only-hero-banner
   block: hero-1
-  heading: Money $
-- template: 2-column-text
-  block: two-column-1
-  col_1:
-    headline: Free
-    slug: free
-    content: "- A<br>- B"
-  col_2:
-    headline: Professional
-    slug: professional
-    content: "- C<br>- D"
-- template: signup-bar
-  block: cta-bar
-  content: ''
-  email_recipient: ''
+  heading: Work in progress!
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2018/06/21/forestry-symbol.svg"

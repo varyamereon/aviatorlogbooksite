@@ -15,7 +15,7 @@ page_sections:
     link_text: Pricing
   - link: https://docs.aviatorlogbook.app
     link_text: Documentation
-  - link: spreefortythree.freshdesk.com
+  - link: https://spreefortythree.freshdesk.com
     link_text: Support
   cta:
     url: https://apps.apple.com/us/app/aviator-logbook/id1550574251

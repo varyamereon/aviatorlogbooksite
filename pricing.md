@@ -20,6 +20,32 @@ page_sections:
   cta:
     url: https://apps.apple.com/us/app/aviator-logbook/id1550574251
     button_text: Download
+- template: simple-header
+  block: header-3
+  logo: "/uploads/2018/06/21/theme.png"
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: Free
+    slug: free
+    content: "- A<br>- B"
+  col_2:
+    headline: Professional
+    slug: professional
+    content: "- C<br>- D"
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: A
+  content: A
+  slug: ''
+  media:
+    image: "/uploads/2018/06/21/product-shot-1.png"
+    alt_text: ''
+- template: detail-content
+  block: text-1
+  headline: B
+  content: "<p>B</p>"
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2018/06/21/forestry-symbol.svg"
@@ -29,4 +55,5 @@ page_sections:
     href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
     href="/privacy" title="Privacy &amp; Terms" target="_blank">Privacy &amp; Terms</a>
   col_4: "© Spree Forty Three 2021"
+
 ---

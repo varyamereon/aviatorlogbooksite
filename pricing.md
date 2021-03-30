@@ -23,14 +23,6 @@ page_sections:
 - template: text-only-hero-banner
   block: hero-1
   heading: Money $
-- template: text-1
-  block: text-1
-  headline: A
-  content: "<p>A</p>"
-- template: text-column
-  headline: A
-  slug: A
-  content: A
 - template: 2-column-text
   block: two-column-1
   col_1:

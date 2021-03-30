@@ -20,9 +20,9 @@ page_sections:
   cta:
     url: https://apps.apple.com/us/app/aviator-logbook/id1550574251
     button_text: Download
-- template: simple-header
-  block: header-3
-  logo: "/uploads/2018/06/21/theme.png"
+- template: text-only-hero-banner
+  block: hero-1
+  heading: Money $
 - template: 2-column-text
   block: two-column-1
   col_1:
@@ -33,19 +33,6 @@ page_sections:
     headline: Professional
     slug: professional
     content: "- C<br>- D"
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: A
-  content: A
-  slug: ''
-  media:
-    image: "/uploads/2018/06/21/product-shot-1.png"
-    alt_text: ''
-- template: detail-content
-  block: text-1
-  headline: B
-  content: "<p>B</p>"
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2018/06/21/forestry-symbol.svg"

@@ -27,9 +27,9 @@ page_sections:
     slug: free
     content: "- A<br>- B"
   col_2:
-    headline: ''
-    slug: ''
-    content: ''
+    headline: Professional
+    slug: professional
+    content: "- C<br>- D"
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2018/06/21/forestry-symbol.svg"

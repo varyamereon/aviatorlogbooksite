@@ -24,7 +24,9 @@ page_sections:
   block: one-column-1
   headline: Download
   slug: ''
-  content: <img src="/uploads/2021/03/30/google-play-badge.png" width="240px">
+  content: Aviator Logbook is available to download on the Apple App Store and the
+    Google Play store.<br><br><img src="/uploads/2021/03/30/app_store.png"><img src="/uploads/2021/03/30/google-play-badge.png"
+    width="240px">
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2018/06/21/forestry-symbol.svg"
@@ -34,13 +36,5 @@ page_sections:
     href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
     href="/privacy" title="Privacy &amp; Terms" target="_blank">Privacy &amp; Terms</a>
   col_4: "© Spree Forty Three 2021"
-- template: 2-column-media-element
-  block: media-2
-  image_1:
-    image: "/uploads/2021/03/30/google-play-badge.png"
-    caption: ''
-  image_2:
-    image: ''
-    caption: ''
 
 ---

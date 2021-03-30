@@ -23,7 +23,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: Aviator Logbook <br><strong>the sky is no limit</strong>
+  headline: "<strong>Aviator Logbook </strong><br>the sky is no limit"
   content: Introducing a modern, reliable logbook solution that's always in sync on
     all your devices.
   cta:

@@ -1,8 +1,4 @@
 ---
-menu:
-  main:
-    weight: 2
-    title: Privacy
 
 ---
 # Editing Your uBuild Site

@@ -9,14 +9,14 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Ubuild
-  - link: "#swap"
-    link_text: Swap
-  - link: "#customize"
-    link_text: Customize
-  - link: "#responsive"
-    link_text: Responsive
-  - link: "#blocks"
-    link_text: Blocks
+  - link: "/features"
+    link_text: Features
+  - link: "/pricing"
+    link_text: Pricing
+  - link: docs.aviatorlogbook.app
+    link_text: Documentation
+  - link: spreefortythree.freshdesk.com
+    link_text: Support
   cta:
     url: https://apps.apple.com/us/app/aviator-logbook/id1550574251
     button_text: Download

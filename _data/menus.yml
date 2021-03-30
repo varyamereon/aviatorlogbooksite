@@ -1,6 +1,8 @@
 ---
 main:
-- identifier: home
-  url: "/"
-  weight: 1
-  title: Home
+- url: https://docs.aviatorlogbook.app
+  weight: 6
+  title: Documentation
+- url: https://spreefortythree.freshdesk.com
+  weight: 5
+  title: Support

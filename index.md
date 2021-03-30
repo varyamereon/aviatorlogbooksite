@@ -43,5 +43,9 @@ page_sections:
     href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
     href="/privacy" title="Privacy &amp; Terms" target="_blank">Privacy &amp; Terms</a>
   col_4: "© Spree Forty Three 2021"
+menu:
+  main:
+    identifier: home
+    weight: 1
 
 ---

@@ -22,7 +22,7 @@ page_sections:
     button_text: Download
 - template: text-only-hero-banner
   block: hero-1
-  heading: Try it for yourself
+  heading: the sky is no limit
 - template: 1-column-text
   block: one-column-1
   headline: Download

@@ -20,51 +20,9 @@ page_sections:
   cta:
     url: http://onelink.to/aeuf5j
     button_text: Download
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  media:
-    image: "/uploads/2018/06/21/edit.gif"
-    alt_text: ''
-  headline: "<strong>Feature 1</strong>"
-  content: Here's a description about the feature.
-  slug: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Left
-  headline: "<strong>Feature 2</strong>"
-  slug: feature2
-  media:
-    image: "/uploads/2018/06/21/blocks-split.png"
-    alt_text: ''
-  content: Here's another great description.
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: ''
-  slug: ''
-  content: ''
-  media:
-    image: ''
-    alt_text: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: ''
-  slug: ''
-  content: ''
-  media:
-    image: ''
-    alt_text: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: ''
-  slug: ''
-  content: ''
-  media:
-    image: ''
-    alt_text: ''
+- template: text-only-hero-banner
+  block: hero-1
+  heading: Work in progress!
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2018/06/21/forestry-symbol.svg"

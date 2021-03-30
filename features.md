@@ -20,5 +20,14 @@ page_sections:
   cta:
     url: https://apps.apple.com/us/app/aviator-logbook/id1550574251
     button_text: Download
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Headline
+  content: Some content
+  slug: ''
+  media:
+    image: ''
+    alt_text: ''
 
 ---

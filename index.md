@@ -9,7 +9,7 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: features
+  - link: "/features"
     link_text: Features
   - link: "/pricing"
     link_text: Pricing

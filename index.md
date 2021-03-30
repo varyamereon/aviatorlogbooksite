@@ -28,7 +28,7 @@ page_sections:
     all your devices.
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
+    url: https://apps.apple.com/us/app/aviator-logbook/id1550574251
     button_text: See for yourself
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"

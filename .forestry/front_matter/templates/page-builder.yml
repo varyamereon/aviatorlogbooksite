@@ -35,6 +35,7 @@ fields:
   - text-column
   - text-only-hero-banner
 pages:
+- download.md
 - features.md
 - index.md
 - pricing.md

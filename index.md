@@ -18,7 +18,7 @@ page_sections:
   - link: https://spreefortythree.freshdesk.com
     link_text: Support
   cta:
-    url: https://apps.apple.com/us/app/aviator-logbook/id1550574251
+    url: http://onelink.to/aeuf5j
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
@@ -28,7 +28,7 @@ page_sections:
     in sync on all your devices.
   cta:
     enabled: true
-    url: https://apps.apple.com/us/app/aviator-logbook/id1550574251
+    url: http://onelink.to/aeuf5j
     button_text: See for yourself
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"

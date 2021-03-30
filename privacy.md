@@ -18,7 +18,7 @@ page_sections:
   - link: https://spreefortythree.freshdesk.com
     link_text: Support
   cta:
-    url: https://apps.apple.com/us/app/aviator-logbook/id1550574251
+    url: http://onelink.to/aeuf5j
     button_text: Download
 - template: 4-column-footer
   block: footer-2

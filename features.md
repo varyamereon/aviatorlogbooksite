@@ -5,10 +5,20 @@ date:
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: ''
-  navigation: []
+  logo: "/uploads/2018/06/21/forestry-full.svg"
+  navigation:
+  - link: "/index"
+    link_text: Home
+  - link: "/"
+    link_text: Features
+  - link: "/pricing"
+    link_text: Pricing
+  - link: https://docs.aviatorlogbook.app
+    link_text: Documentation
+  - link: https://spreefortythree.freshdesk.com
+    link_text: Support
   cta:
-    url: ''
-    button_text: ''
+    url: https://apps.apple.com/us/app/aviator-logbook/id1550574251
+    button_text: Download
 
 ---

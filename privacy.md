@@ -20,6 +20,9 @@ page_sections:
   cta:
     url: http://onelink.to/aeuf5j
     button_text: Download
+- template: text-only-hero-banner
+  block: hero-1
+  heading: Work in progress!
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2018/06/21/forestry-symbol.svg"

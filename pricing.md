@@ -23,11 +23,11 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: ''
+  headline: Headline
   slug: ''
-  content: ''
+  content: Content
   media:
-    image: ''
+    image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: ''
 - template: 4-column-footer
   block: footer-2

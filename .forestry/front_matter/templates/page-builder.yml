@@ -31,6 +31,9 @@ fields:
   - signup-bar
   - simple-footer
   - 4-column-footer
+  - text-1
+  - text-column
+  - text-only-hero-banner
 pages:
 - features.md
 - index.md

@@ -25,8 +25,8 @@ page_sections:
   headline: Download
   slug: ''
   content: Aviator Logbook is available to download on the Apple App Store and the
-    Google Play store.<br><br><img src="/uploads/2021/03/30/app_store.png"><img src="/uploads/2021/03/30/google-play-badge.png"
-    width="240px">
+    Google Play store.<br><br><img src="/uploads/2021/03/30/app_store.png">                    <img
+    src="/uploads/2021/03/30/google-play-badge-1.png">
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2018/06/21/forestry-symbol.svg"

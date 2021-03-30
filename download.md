@@ -33,7 +33,7 @@ page_sections:
     image: "/uploads/2021/03/30/app_store.png"
     caption: ''
   image_2:
-    image: ''
+    image: "/uploads/2021/03/30/google-play-badge-1.png"
     caption: ''
 - template: 4-column-footer
   block: footer-2

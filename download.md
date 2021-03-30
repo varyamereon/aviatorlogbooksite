@@ -24,7 +24,7 @@ page_sections:
   block: one-column-1
   headline: Download
   slug: ''
-  content: <img src="/uploads/2021/03/30/google-play-badge.png">
+  content: <img src="/uploads/2021/03/30/google-play-badge.png" height="64">
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2018/06/21/forestry-symbol.svg"

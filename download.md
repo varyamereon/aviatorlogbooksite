@@ -20,6 +20,9 @@ page_sections:
   cta:
     url: http://onelink.to/aeuf5j
     button_text: Download
+- template: text-only-hero-banner
+  block: hero-1
+  heading: Download
 - template: 1-column-text
   block: one-column-1
   headline: Download

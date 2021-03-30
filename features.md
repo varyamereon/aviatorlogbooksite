@@ -29,5 +29,13 @@ page_sections:
   media:
     image: ''
     alt_text: ''
-
+- template: 4-column-footer
+  block: footer-2
+  image: "/uploads/2018/06/21/forestry-symbol.svg"
+  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
+    title="Pricing" target="_blank">Pricing</a>
+  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
+    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
+    href="/privacy" title="Privacy &amp; Terms" target="_blank">Privacy &amp; Terms</a>
+  col_4: "© Spree Forty Three 2021"
 ---

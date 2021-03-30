@@ -46,5 +46,8 @@ page_sections:
   foo:
   - title: Hey
     link: hey
+  navigation:
+  - link: "/privacy"
+    link_text: Privacy
 
 ---

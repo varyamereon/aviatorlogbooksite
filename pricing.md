@@ -33,6 +33,10 @@ page_sections:
     headline: Professional
     slug: professional
     content: "- C<br>- D"
+- template: signup-bar
+  block: cta-bar
+  content: ''
+  email_recipient: ''
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2018/06/21/forestry-symbol.svg"

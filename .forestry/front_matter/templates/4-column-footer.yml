@@ -31,21 +31,15 @@ fields:
     wysiwyg: true
     schema:
       format: html
-- name: foo
-  type: field_group_list
+- type: field_group_list
+  name: navigation
+  label: Navigation
   fields:
-  - name: title
-    type: text
-    config:
-      required: false
-    label: Title
-  - name: link
-    type: text
-    config:
-      required: false
-    label: Link
+  - type: text
+    name: link
+    label: link
+  - type: text
+    name: link_text
+    label: Link text
   config:
-    min: 
-    max: 
-    labelField: title
-  label: Foo
+    labelField: link_text

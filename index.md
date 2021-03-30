@@ -36,7 +36,7 @@ page_sections:
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: 4-column-footer
   block: footer-2
-  image: "/uploads/2018/06/21/forestry-full.svg"
+  image: "/uploads/2018/06/21/forestry-symbol.svg"
   col_2: Features<br>Pricing
   col_3: Documentation<br>Support<br>Privacy &amp; Terms
   col_4: "© Spree Forty Three 2021"

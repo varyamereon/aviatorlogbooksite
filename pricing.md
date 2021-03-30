@@ -27,6 +27,10 @@ page_sections:
   block: text-1
   headline: A
   content: "<p>A</p>"
+- template: text-column
+  headline: A
+  slug: A
+  content: A
 - template: 2-column-text
   block: two-column-1
   col_1:

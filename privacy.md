@@ -22,7 +22,7 @@ page_sections:
     button_text: Download
 - template: text-only-hero-header
   block: hero-3
-  heading: Privacy &amp; Terms
+  heading: Privacy
 - template: privacy
   block: privacy
 - template: 4-column-footer

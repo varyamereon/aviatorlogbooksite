@@ -33,6 +33,7 @@ fields:
   - 4-column-footer
   - text-only-hero-banner
   - text-only-hero-header
+  - privacy
 pages:
 - download.md
 - features.md

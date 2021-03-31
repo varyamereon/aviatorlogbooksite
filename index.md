@@ -31,7 +31,7 @@ page_sections:
     url: https://onelink.to/aeuf5j
     button_text: See for yourself
   image:
-    image: "/uploads/2021/03/31/iphone-12-pro-silver-vertical.png"
+    image: "/uploads/2021/03/31/flights-iphone12pro-1-0.png"
     alt_text: iPhone Flights
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: 4-column-footer

@@ -1,4 +1,9 @@
 ---
-label: Privacy
-hide_body: true
-fields: []
+label: privacy
+hide_body: false
+fields:
+- type: text
+  hidden: true
+  label: block
+  name: block
+  default: privacy

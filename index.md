@@ -25,14 +25,14 @@ page_sections:
   slug: features
   headline: "<strong>Aviator Logbook </strong><br>the sky is no limit"
   content: Introducing a modern, reliable logbook solution for pilots that's always
-    in sync on all your devices.
+    in sync, across all your devices.
   cta:
     enabled: true
     url: https://onelink.to/aeuf5j
     button_text: See for yourself
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
-    alt_text: Product Shot
+    image: "/uploads/2021/03/31/flights-iphone12pro-1-0.png"
+    alt_text: iPhone Flights
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: 4-column-footer
   block: footer-2

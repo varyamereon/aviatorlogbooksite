@@ -18,7 +18,7 @@ page_sections:
   - link: https://spreefortythree.freshdesk.com
     link_text: Support
   cta:
-    url: http://onelink.to/aeuf5j
+    url: https://onelink.to/aeuf5j
     button_text: Download
 - template: text-only-hero-banner
   block: hero-1

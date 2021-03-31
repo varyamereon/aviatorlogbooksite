@@ -23,11 +23,6 @@ page_sections:
 - template: text-only-hero-header
   block: hero-3
   heading: Privacy &amp; Terms
-- template: 1-column-text
-  block: one-column-1
-  headline: ''
-  slug: ''
-  content: <a></a>
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2018/06/21/forestry-symbol.svg"

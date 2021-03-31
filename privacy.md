@@ -20,14 +20,14 @@ page_sections:
   cta:
     url: https://onelink.to/aeuf5j
     button_text: Download
-- template: text-only-hero-banner
-  block: hero-1
-  heading: privacy &amp; terms
+- template: text-only-hero-header
+  block: hero-3
+  heading: Privacy &amp; Terms
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2018/06/21/forestry-symbol.svg"
-  col_2: <a href="/features" title="Features">Features</a><br><a href="/pricing"
-    title="Pricing">Pricing</a>
+  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
+    title="Pricing" target="_blank">Pricing</a>
   col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation">Documentation</a><br><a
     href="https://spreefortythree.freshdesk.com" title="Support">Support</a><br><a
     href="/privacy" title="Privacy &amp; Terms">Privacy &amp; Terms</a>

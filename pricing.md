@@ -30,7 +30,7 @@ page_sections:
     title="Pricing">Pricing</a>
   col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation">Documentation</a><br><a
     href="https://spreefortythree.freshdesk.com" title="Support">Support</a><br><a
-    href="/privacy" title="Privacy &amp; Terms">Privacy &amp; Terms</a>
+    href="/privacy" title="Privacy Policy">Privacy Policy</a>
   col_4: "© Spree Forty Three 2021"
 menu:
   main:

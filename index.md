@@ -31,9 +31,9 @@ page_sections:
     url: https://onelink.to/aeuf5j
     button_text: See for yourself
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
-    alt_text: Product Shot
-  background_image: "/uploads/2021/03/31/iphoneflights.png"
+    image: "/uploads/2021/03/31/iphoneflights.png"
+    alt_text: iPhone Flights
+  background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2018/06/21/forestry-symbol.svg"

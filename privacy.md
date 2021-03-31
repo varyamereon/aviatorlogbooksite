@@ -25,7 +25,7 @@ page_sections:
   heading: Privacy &amp; Terms
 - template: 1-column-text
   block: one-column-1
-  headline: Privacy & Terms
+  headline: ''
   slug: ''
   content: x
 - template: 4-column-footer

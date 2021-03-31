@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Privacy & Terms
+title: Privacy Policy
 date: 
 page_sections:
 - template: navigation-header-w-button
@@ -22,7 +22,7 @@ page_sections:
     button_text: Download
 - template: text-only-hero-header
   block: hero-3
-  heading: Privacy
+  heading: Privacy Policy
 - template: privacy
   block: privacy
 - template: 4-column-footer

@@ -5,7 +5,7 @@ date:
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2018/06/21/forestry-full.svg"
+  logo: "/uploads/2021/04/01/websitelogofull.svg"
   navigation:
   - link: "/"
     link_text: Home
@@ -27,7 +27,7 @@ page_sections:
   block: privacy
 - template: 4-column-footer
   block: footer-2
-  image: "/uploads/2018/06/21/forestry-symbol.svg"
+  image: "/uploads/2021/04/01/websitelogoicon.svg"
   col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
     title="Pricing" target="_blank">Pricing</a>
   col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation">Documentation</a><br><a

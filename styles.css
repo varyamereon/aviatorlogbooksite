@@ -170,8 +170,8 @@ input.inverted::placeholder {
 }
 
 .block-header-1--logo img {
-    height: 24px;
-    height: 1.5rem
+    height: 36px;
+    margin-right: 36px;
 }
 
 .block-header-1 .nav-item {
@@ -216,8 +216,8 @@ input.inverted::placeholder {
 }
 
 .block-header-2--logo img {
-    max-height: 24px;
-    max-height: 1.5rem
+    height: 36px;
+    margin-right: 36px;
 }
 
 .block-header-2--nav {

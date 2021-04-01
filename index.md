@@ -5,7 +5,7 @@ date:
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2018/06/21/forestry-full.svg"
+  logo: "/uploads/2021/04/01/websitelogofull.svg"
   navigation:
   - link: "/"
     link_text: Home
@@ -37,8 +37,7 @@ page_sections:
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2018/06/21/forestry-symbol.svg"
-  col_2: <a href="/features" title="Features">Features</a><br><a href="/pricing"
-    title="Pricing">Pricing</a>
+  col_2: <a href="/features" title="Features">Features</a><br><a href="/pricing" title="Pricing">Pricing</a>
   col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation">Documentation</a><br><a
     href="https://spreefortythree.freshdesk.com" title="Support">Support</a><br><a
     href="/privacy" title="Privacy">Privacy</a>

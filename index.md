@@ -36,7 +36,7 @@ page_sections:
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: 4-column-footer
   block: footer-2
-  image: "/uploads/2021/04/01/websitelogoicon.svg"
+  image: "/uploads/2021/04/01/websitelogofull.svg"
   col_2: <a href="/features" title="Features">Features</a><br><a href="/pricing" title="Pricing">Pricing</a>
   col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation">Documentation</a><br><a
     href="https://spreefortythree.freshdesk.com" title="Support">Support</a><br><a

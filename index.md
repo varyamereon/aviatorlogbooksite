@@ -28,8 +28,8 @@ page_sections:
     in sync, across all your devices.
   cta:
     enabled: true
-    url: https://onelink.to/aeuf5j
-    button_text: See for yourself
+    url: https://bit.ly/3wSc3nF
+    button_text: Join the beta
   image:
     image: "/uploads/2021/03/31/flights-iphone12pro-1-0.png"
     alt_text: iPhone Flights

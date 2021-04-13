@@ -18,8 +18,8 @@ page_sections:
   - link: https://spreefortythree.freshdesk.com
     link_text: Support
   cta:
-    url: https://onelink.to/aeuf5j
-    button_text: Download
+    url: https://bit.ly/3wSc3nF
+    button_text: Join the beta
 - template: text-only-hero-header
   block: hero-3
   heading: Privacy Policy

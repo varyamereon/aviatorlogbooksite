@@ -18,16 +18,15 @@ page_sections:
   - link: https://spreefortythree.freshdesk.com
     link_text: Support
   cta:
-    url: https://onelink.to/aeuf5j
-    button_text: Download
+    url: https://bit.ly/3wSc3nF
+    button_text: Join the beta
 - template: text-only-hero-banner
   block: hero-1
   heading: Work in progress!
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2021/04/01/websitelogoicon.svg"
-  col_2: <a href="/features" title="Features">Features</a><br><a href="/pricing"
-    title="Pricing">Pricing</a>
+  col_2: <a href="/features" title="Features">Features</a><br><a href="/pricing" title="Pricing">Pricing</a>
   col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation">Documentation</a><br><a
     href="https://spreefortythree.freshdesk.com" title="Support">Support</a><br><a
     href="/privacy" title="Privacy">Privacy</a>

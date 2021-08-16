@@ -19,7 +19,7 @@ page_sections:
     link_text: Support
   cta:
     url: http://onelink.to/aviatorlogbook-b
-    button_text: Download
+    button_text: Join the beta
 - template: text-only-hero-banner
   block: hero-1
   heading: See it for yourself

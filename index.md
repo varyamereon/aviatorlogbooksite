@@ -28,7 +28,7 @@ page_sections:
     in sync, across all your devices.
   cta:
     enabled: true
-    url: http://onelink.to/aviatorlogbook-b
+    url: https://bit.ly/aviatorlogbookbeta
     button_text: Join the beta
   image:
     image: "/uploads/2021/03/31/flights-iphone12pro-1-0.png"

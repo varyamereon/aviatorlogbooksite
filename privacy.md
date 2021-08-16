@@ -18,7 +18,7 @@ page_sections:
   - link: https://spreefortythree.freshdesk.com
     link_text: Support
   cta:
-    url: https://bit.ly/3wSc3nF
+    url: http://onelink.to/aviatorlogbook-b
     button_text: Join the beta
 - template: text-only-hero-header
   block: hero-3

@@ -18,7 +18,7 @@ page_sections:
   - link: https://spreefortythree.freshdesk.com
     link_text: Support
   cta:
-    url: https://bit.ly/3wSc3nF
+    url: http://onelink.to/aviatorlogbook-b
     button_text: Join the beta
 - template: hero-banner-w-image
   block: hero-2
@@ -28,7 +28,7 @@ page_sections:
     in sync, across all your devices.
   cta:
     enabled: true
-    url: https://bit.ly/3wSc3nF
+    url: http://onelink.to/aviatorlogbook-b
     button_text: Join the beta
   image:
     image: "/uploads/2021/03/31/flights-iphone12pro-1-0.png"

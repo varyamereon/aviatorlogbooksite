@@ -388,16 +388,6 @@ page_sections:
     if we believe that there is a reasonable risk of harm to the User as a result
     of the breach or if notice is otherwise required by law. When we do, we will post
     a notice on the Services.</p>"
-- template: 4-column-footer
-  block: footer-2
-  image: "/uploads/2021/04/01/websitelogoicon.svg"
-  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
-    title="Pricing" target="_blank">Pricing</a>
-  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
-    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
-    href="/privacy" title="Privacy" target="_blank">Privacy</a><br><a href="/terms-of-service"
-    title="Terms of Service" target="_blank">Terms of Service</a>
-  col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
   headline: Changes and amendments
@@ -412,10 +402,23 @@ page_sections:
     consent to those changes. However, we will not, without your consent, use your
     Personal Information in a manner materially different than what was stated at
     the time your Personal Information was collected.</p>"
+- template: 4-column-footer
+  block: footer-2
+  image: "/uploads/2021/04/01/websitelogoicon.svg"
+  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
+    title="Pricing" target="_blank">Pricing</a>
+  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
+    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
+    href="/privacy" title="Privacy" target="_blank">Privacy</a><br><a href="/terms-of-service"
+    title="Terms of Service" target="_blank">Terms of Service</a>
+  col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
-  headline: ''
-  content: ''
+  headline: Acceptance of this policy
+  content: "<p>You acknowledge that you have read this Policy and agree to all its
+    terms and conditions. By accessing and using the Services and submitting your
+    information you agree to be bound by this Policy. If you do not agree to abide
+    by the terms of this Policy, you are not authorized to access or use the Services.</p>"
 - template: detail-content
   block: text-1
   headline: ''

@@ -128,7 +128,7 @@ page_sections:
   content: '<p>All purchases made via the App Store are subject to the Apple Media
     Services Terms and Conditions, which at the time of writing are available here:
     <a href="https://www.apple.com/legal/internet-services/itunes/us/terms.html."
-    title="Apple Media Services Terms and Conditions" target="_blank">https://www.apple.com/legal/internet-services/itunes/us/terms.html.</a>.</p>'
+    title="Apple Media Services Terms and Conditions" target="_blank">https://www.apple.com/legal/internet-services/itunes/us/terms.html</a>.</p>'
 - template: detail-content
   block: text-1
   headline: Intellectual property rights
@@ -234,6 +234,14 @@ page_sections:
     you agree to be bound by this Agreement. If you do not agree to abide by the terms
     of this Agreement, you are not authorized to access or use the Mobile Application
     and Services.</p>"
+- template: detail-content
+  block: text-1
+  headline: Contacting us
+  content: <p>If you have any questions, concerns, or complaints regarding this Agreement,
+    we encourage you to contact us using the details below:</p><p><a href="https://spreefortythree.freshdesk.com"
+    title="Contact Us" target="_blank">https://spreefortythree.freshdesk.com</a></p><p><a
+    href="mailto:support@spreefortythree.com" title="Email Us" target="_blank">support@spreefortythree.com</a></p><p>This
+    document was last updated on November 24, 2021</p>
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2021/04/01/websitelogoicon.svg"
@@ -243,14 +251,6 @@ page_sections:
     href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
     href="/privacy" title="Privacy" target="_blank">Privacy</a>
   col_4: "© Spree Forty Three 2021"
-- template: detail-content
-  block: text-1
-  headline: Contacting us
-  content: <p>If you have any questions, concerns, or complaints regarding this Agreement,
-    we encourage you to contact us using the details below:</p><p><a href="https://spreefortythree.freshdesk.com"
-    title="Contact Us" target="_blank">https://spreefortythree.freshdesk.com</a></p><p><a
-    href="mailto:support@spreefortythree.com" title="Email Us" target="_blank">support@spreefortythree.com</a></p><p>This
-    document was last updated on November 24, 2021</p>
 menu:
   main:
     weight: 4

@@ -203,6 +203,16 @@ page_sections:
     shall constitute their agreement with respect to the subject matter hereof, and
     all such remaining provisions or portions thereof shall remain in full force and
     effect.</p>"
+- template: detail-content
+  block: text-1
+  headline: Assignment
+  content: "<p>You may not assign, resell, sub-license or otherwise transfer or delegate
+    any of your rights or obligations hereunder, in whole or in part, without our
+    prior written consent, which consent shall be at our own sole discretion and without
+    obligation; any such assignment or transfer shall be null and void. We are free
+    to assign any of its rights or obligations hereunder, in whole or in part, to
+    any third party as part of the sale of all or substantially all of its assets
+    or stock or as part of a merger.</p>"
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2021/04/01/websitelogoicon.svg"
@@ -214,18 +224,17 @@ page_sections:
   col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
-  headline: Assignment
-  content: "<p>You may not assign, resell, sub-license or otherwise transfer or delegate
-    any of your rights or obligations hereunder, in whole or in part, without our
-    prior written consent, which consent shall be at our own sole discretion and without
-    obligation; any such assignment or transfer shall be null and void. We are free
-    to assign any of its rights or obligations hereunder, in whole or in part, to
-    any third party as part of the sale of all or substantially all of its assets
-    or stock or as part of a merger.</p>"
-- template: detail-content
-  block: text-1
-  headline: ''
-  content: ''
+  headline: Changes and amendments
+  content: "<p>We reserve the right to modify this Agreement or its terms related
+    to the Mobile Application and Services at any time at our discretion. When we
+    do, we will revise the updated date at the bottom of this page, post a notification
+    in the Mobile Application. We may also provide notice to you in other ways at
+    our discretion, such as through the contact information you have provided.</p><p>An
+    updated version of this Agreement will be effective immediately upon the posting
+    of the revised Agreement unless otherwise specified. Your continued use of the
+    Mobile Application and Services after the effective date of the revised Agreement
+    (or such other act specified at that time) will constitute your consent to those
+    changes.</p>"
 - template: detail-content
   block: text-1
   headline: ''

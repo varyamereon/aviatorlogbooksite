@@ -402,6 +402,13 @@ page_sections:
     consent to those changes. However, we will not, without your consent, use your
     Personal Information in a manner materially different than what was stated at
     the time your Personal Information was collected.</p>"
+- template: detail-content
+  block: text-1
+  headline: Acceptance of this policy
+  content: "<p>You acknowledge that you have read this Policy and agree to all its
+    terms and conditions. By accessing and using the Services and submitting your
+    information you agree to be bound by this Policy. If you do not agree to abide
+    by the terms of this Policy, you are not authorized to access or use the Services.</p>"
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2021/04/01/websitelogoicon.svg"
@@ -414,15 +421,17 @@ page_sections:
   col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
-  headline: Acceptance of this policy
-  content: "<p>You acknowledge that you have read this Policy and agree to all its
-    terms and conditions. By accessing and using the Services and submitting your
-    information you agree to be bound by this Policy. If you do not agree to abide
-    by the terms of this Policy, you are not authorized to access or use the Services.</p>"
-- template: detail-content
-  block: text-1
-  headline: ''
-  content: ''
+  headline: Contacting us
+  content: '<p>If you have any questions, concerns, or complaints regarding this Policy,
+    the information we hold about you, or if you wish to exercise your rights, we
+    encourage you to contact us using the details below:</p><p><a href="mailto:support@spreefortythree.com"
+    title="Email Us" target="_blank">support@spreefortythree.com</a></p><p>EU representative:
+    William Beal</p><p><a href="mailto:support@spreefortythree.com" title="Email Us"
+    target="_blank">support@spreefortythree.com</a></p><p>We will attempt to resolve
+    complaints and disputes and make every reasonable effort to honor your wish to
+    exercise your rights as quickly as possible and in any event, within the timescales
+    provided by applicable data protection laws.</p><p><em>This document was last
+    updated on November 24, 2021</em></p>'
 menu:
   main:
     weight: 4

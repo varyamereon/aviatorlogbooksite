@@ -226,6 +226,14 @@ page_sections:
     Mobile Application and Services after the effective date of the revised Agreement
     (or such other act specified at that time) will constitute your consent to those
     changes.</p>"
+- template: detail-content
+  block: text-1
+  headline: Acceptance of these terms
+  content: "<p>You acknowledge that you have read this Agreement and agree to all
+    its terms and conditions. By accessing and using the Mobile Application and Services
+    you agree to be bound by this Agreement. If you do not agree to abide by the terms
+    of this Agreement, you are not authorized to access or use the Mobile Application
+    and Services.</p>"
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2021/04/01/websitelogoicon.svg"
@@ -237,16 +245,12 @@ page_sections:
   col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
-  headline: Acceptance of these terms
-  content: "<p>You acknowledge that you have read this Agreement and agree to all
-    its terms and conditions. By accessing and using the Mobile Application and Services
-    you agree to be bound by this Agreement. If you do not agree to abide by the terms
-    of this Agreement, you are not authorized to access or use the Mobile Application
-    and Services.</p>"
-- template: detail-content
-  block: text-1
-  headline: ''
-  content: ''
+  headline: Contacting us
+  content: <p>If you have any questions, concerns, or complaints regarding this Agreement,
+    we encourage you to contact us using the details below:</p><p><a href="https://spreefortythree.freshdesk.com"
+    title="Contact Us" target="_blank">https://spreefortythree.freshdesk.com</a></p><p><a
+    href="mailto:support@spreefortythree.com" title="Email Us" target="_blank">support@spreefortythree.com</a></p><p>This
+    document was last updated on November 24, 2021</p>
 menu:
   main:
     weight: 4

@@ -138,16 +138,6 @@ page_sections:
     processing, and in particular whether the provision of Personal Information is
     a statutory or contractual requirement, or a requirement necessary to enter into
     a contract.</p>"
-- template: 4-column-footer
-  block: footer-2
-  image: "/uploads/2021/04/01/websitelogoicon.svg"
-  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
-    title="Pricing" target="_blank">Pricing</a>
-  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
-    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
-    href="/privacy" title="Privacy" target="_blank">Privacy</a><br><a href="/terms-of-service"
-    title="Terms of Service" target="_blank">Terms of Service</a>
-  col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
   headline: Payment processing
@@ -174,10 +164,27 @@ page_sections:
     Personal Information is governed by their respective privacy policies which may
     or may not contain privacy protections as protective as this Policy. We suggest
     that you review their respective privacy policies.</p>"
+- template: 4-column-footer
+  block: footer-2
+  image: "/uploads/2021/04/01/websitelogoicon.svg"
+  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
+    title="Pricing" target="_blank">Pricing</a>
+  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
+    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
+    href="/privacy" title="Privacy" target="_blank">Privacy</a><br><a href="/terms-of-service"
+    title="Terms of Service" target="_blank">Terms of Service</a>
+  col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
-  headline: ''
-  content: ''
+  headline: Managing information
+  content: "<p>You are able to delete certain Personal Information we have about you.
+    The Personal Information you can delete may change as the Services change. When
+    you delete Personal Information, however, we may maintain a copy of the unrevised
+    Personal Information in our records for the duration necessary to comply with
+    our obligations to our affiliates and partners, and for the purposes described
+    below. If you would like to delete your Personal Information or permanently delete
+    your account, you can do so on the settings page of your account on the Services
+    or simply by contacting us.</p>"
 - template: detail-content
   block: text-1
   headline: ''

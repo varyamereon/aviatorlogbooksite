@@ -206,7 +206,7 @@ page_sections:
     you to contact us using the details below:</p><p>[<a href="https://spreefortythree.freshdesk.com"
     title="https://spreefortythree.freshdesk.com" target="_blank">https://spreefortythree.freshdesk.com</a>](<a
     href="https://spreefortythree.freshdesk.com" title="https://spreefortythree.freshdesk.com"
-    target="_blank">https://spreefortythree.freshdesk.com</a>)</p><p>support@spreefortythree.com</p><p>This
+    target="_blank">https://spreefortythree.freshdesk.com</a>)</p><p>[support@spreefortythree.com](mailto:support@spreefortythree.com)</p><p>This
     document was last updated on November 24, 2021</p>'
   headline: ''
 menu:

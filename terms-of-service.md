@@ -190,15 +190,6 @@ page_sections:
     occurrence giving rise to such liability. The limitations and exclusions also
     apply if this remedy does not fully compensate you for any losses or fails of
     its essential purpose.</p>"
-- template: 4-column-footer
-  block: footer-2
-  image: "/uploads/2021/04/01/websitelogoicon.svg"
-  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
-    title="Pricing" target="_blank">Pricing</a>
-  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
-    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
-    href="/privacy" title="Privacy" target="_blank">Privacy</a>
-  col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
   headline: Severability
@@ -212,10 +203,25 @@ page_sections:
     shall constitute their agreement with respect to the subject matter hereof, and
     all such remaining provisions or portions thereof shall remain in full force and
     effect.</p>"
+- template: 4-column-footer
+  block: footer-2
+  image: "/uploads/2021/04/01/websitelogoicon.svg"
+  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
+    title="Pricing" target="_blank">Pricing</a>
+  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
+    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
+    href="/privacy" title="Privacy" target="_blank">Privacy</a>
+  col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
-  headline: ''
-  content: ''
+  headline: Assignment
+  content: "<p>You may not assign, resell, sub-license or otherwise transfer or delegate
+    any of your rights or obligations hereunder, in whole or in part, without our
+    prior written consent, which consent shall be at our own sole discretion and without
+    obligation; any such assignment or transfer shall be null and void. We are free
+    to assign any of its rights or obligations hereunder, in whole or in part, to
+    any third party as part of the sale of all or substantially all of its assets
+    or stock or as part of a merger.</p>"
 - template: detail-content
   block: text-1
   headline: ''

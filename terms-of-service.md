@@ -82,15 +82,6 @@ page_sections:
     the same billing and/or shipping address. In the event that we make a change to
     or cancel an order, we may attempt to notify you by contacting the e-mail and/or
     billing address/phone number provided at the time the order was made.</p>"
-- template: 4-column-footer
-  block: footer-2
-  image: "/uploads/2021/04/01/websitelogoicon.svg"
-  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
-    title="Pricing" target="_blank">Pricing</a>
-  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
-    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
-    href="/privacy" title="Privacy" target="_blank">Privacy</a>
-  col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
   headline: Accuracy of information
@@ -105,10 +96,28 @@ page_sections:
     by law. No specified update or refresh date applied in the Mobile Application
     should be taken to indicate that all information in the Mobile Application or
     Services has been modified or updated.</p>"
+- template: 4-column-footer
+  block: footer-2
+  image: "/uploads/2021/04/01/websitelogoicon.svg"
+  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
+    title="Pricing" target="_blank">Pricing</a>
+  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
+    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
+    href="/privacy" title="Privacy" target="_blank">Privacy</a>
+  col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
-  headline: ''
-  content: ''
+  headline: Links to other resources
+  content: "<p>Although the Mobile Application and Services may link to other resources
+    (such as websites, mobile applications, etc.), we are not, directly or indirectly,
+    implying any approval, association, sponsorship, endorsement, or affiliation with
+    any linked resource, unless specifically stated herein. We are not responsible
+    for examining or evaluating, and we do not warrant the offerings of, any businesses
+    or individuals or the content of their resources. We do not assume any responsibility
+    or liability for the actions, products, services, and content of any other third
+    parties. You should carefully review the legal statements and other conditions
+    of use of any resource which you access through a link in the Mobile Application.
+    Your linking to any other off-site resources is at your own risk.</p>"
 - template: detail-content
   block: text-1
   headline: ''

@@ -44,7 +44,7 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Accounts and membership
-  content: "<p>You must be at least 13 years of age to use the Mobile Application
+  content: "You must be at least 13 years of age to use the Mobile Application
     and Services. By using the Mobile Application and Services and by agreeing to
     this Agreement you warrant and represent that you are at least 13 years of age.
     If you create an account in the Mobile Application, you are responsible for maintaining
@@ -60,7 +60,7 @@ page_sections:
     any provision of this Agreement or that your conduct or content would tend to
     damage our reputation and goodwill. If we delete your account for the foregoing
     reasons, you may not re-register for our Services. We may block your email address
-    and Internet protocol address to prevent further registration.</p>"
+    and Internet protocol address to prevent further registration."
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2021/04/01/websitelogoicon.svg"

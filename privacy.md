@@ -210,16 +210,6 @@ page_sections:
     expires, Personal Information shall be deleted. Therefore, the right to access,
     the right to erasure, the right to rectification, and the right to data portability
     cannot be enforced after the expiration of the retention period.</p>"
-- template: 4-column-footer
-  block: footer-2
-  image: "/uploads/2021/04/01/websitelogoicon.svg"
-  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
-    title="Pricing" target="_blank">Pricing</a>
-  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
-    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
-    href="/privacy" title="Privacy" target="_blank">Privacy</a><br><a href="/terms-of-service"
-    title="Terms of Service" target="_blank">Terms of Service</a>
-  col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
   headline: Transfer of information
@@ -234,10 +224,74 @@ page_sections:
     measures taken by us to safeguard your information. If any such transfer takes
     place, you can find out more by checking the relevant sections of this Policy
     or inquire with us using the information provided in the contact section.</p>"
+- template: 4-column-footer
+  block: footer-2
+  image: "/uploads/2021/04/01/websitelogoicon.svg"
+  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
+    title="Pricing" target="_blank">Pricing</a>
+  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
+    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
+    href="/privacy" title="Privacy" target="_blank">Privacy</a><br><a href="/terms-of-service"
+    title="Terms of Service" target="_blank">Terms of Service</a>
+  col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
-  headline: ''
-  content: ''
+  headline: Data protection rights under the GDPR
+  content: "<p>If you are a resident of the European Economic Area (“EEA”), you have
+    certain data protection rights and we aim to take reasonable steps to allow you
+    to correct, amend, delete, or limit the use of your Personal Information. If you
+    wish to be informed what Personal Information we hold about you and if you want
+    it to be removed from our systems, please contact us. In certain circumstances,
+    you have the following data protection rights:</p><p>(i) You have the right to
+    withdraw consent where you have previously given your consent to the processing
+    of your Personal Information. To the extent that the legal basis for our processing
+    of your Personal Information is consent, you have the right to withdraw that consent
+    at any time. Withdrawal will not affect the lawfulness of processing before the
+    withdrawal.</p><p>(ii) You have the right to learn if your Personal Information
+    is being processed by us, obtain disclosure regarding certain aspects of the processing,
+    and obtain a copy of your Personal Information undergoing processing.</p><p>(iii)
+    You have the right to verify the accuracy of your information and ask for it to
+    be updated or corrected. You also have the right to request us to complete the
+    Personal Information you believe is incomplete.</p><p>(iv) You have the right
+    to object to the processing of your information if the processing is carried out
+    on a legal basis other than consent. Where Personal Information is processed for
+    the public interest, in the exercise of an official authority vested in us, or
+    for the purposes of the legitimate interests pursued by us, you may object to
+    such processing by providing a ground related to your particular situation to
+    justify the objection.</p><p>(v) You have the right, under certain circumstances,
+    to restrict the processing of your Personal Information. These circumstances include:
+    the accuracy of your Personal Information is contested by you and we must verify
+    its accuracy; the processing is unlawful, but you oppose the erasure of your Personal
+    Information and request the restriction of its use instead; we no longer need
+    your Personal Information for the purposes of processing, but you require it to
+    establish, exercise or defend your legal claims; you have objected to processing
+    pending the verification of whether our legitimate grounds override your legitimate
+    grounds. Where processing has been restricted, such Personal Information will
+    be marked accordingly and, with the exception of storage, will be processed only
+    with your consent or for the establishment, to exercise or defense of legal claims,
+    for the protection of the rights of another natural, or legal person or for reasons
+    of important public interest.</p><p>(vi) You have the right, under certain circumstances,
+    to obtain the erasure of your Personal Information from us. These circumstances
+    include: the Personal Information is no longer necessary in relation to the purposes
+    for which it was collected or otherwise processed; you withdraw consent to consent-based
+    processing; you object to the processing under certain rules of applicable data
+    protection law; the processing is for direct marketing purposes; and the personal
+    data have been unlawfully processed. However, there are exclusions of the right
+    to erasure such as where processing is necessary: for exercising the right of
+    freedom of expression and information; for compliance with a legal obligation;
+    or for the establishment, to exercise or defense of legal claims.</p><p>(vii)
+    You have the right to receive your Personal Information that you have provided
+    to us in a structured, commonly used, and machine-readable format and, if technically
+    feasible, to have it transmitted to another controller without any hindrance from
+    us, provided that such transmission does not adversely affect the rights and freedoms
+    of others.</p><p>(viii) You have the right to complain to a data protection authority
+    about our collection and use of your Personal Information. If you are not satisfied
+    with the outcome of your complaint directly with us, you have the right to lodge
+    a complaint with your local data protection authority. For more information, please
+    contact your local data protection authority in the EEA. This provision is applicable
+    provided that your Personal Information is processed by automated means and that
+    the processing is based on your consent, on a contract which you are part of,
+    or on pre-contractual obligations thereof.</p>"
 - template: detail-content
   block: text-1
   headline: ''

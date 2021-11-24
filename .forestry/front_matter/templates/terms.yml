@@ -1,4 +1,12 @@
 ---
 label: terms
 hide_body: true
-fields: []
+fields:
+- name: terms
+  type: blocks
+  label: Terms of Service
+  template_types:
+  - terms
+  config:
+    min: 
+    max: 

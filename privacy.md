@@ -45,16 +45,6 @@ page_sections:
     that you have read, understood, and agree to be bound by the terms of this Policy.
     This Policy does not apply to the practices of companies that we do not own or
     control, or to individuals that we do not employ or manage.</p>"
-- template: 4-column-footer
-  block: footer-2
-  image: "/uploads/2021/04/01/websitelogoicon.svg"
-  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
-    title="Pricing" target="_blank">Pricing</a>
-  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
-    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
-    href="/privacy" title="Privacy" target="_blank">Privacy</a><br><a href="/terms-of-service"
-    title="Terms of Service" target="_blank">Terms of Service</a>
-  col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
   headline: Automatic collection of information
@@ -69,10 +59,34 @@ page_sections:
     establish statistical information regarding the usage and traffic of the Services.
     This statistical information is not otherwise aggregated in such a way that would
     identify any particular User of the system.</p>"
+- template: 4-column-footer
+  block: footer-2
+  image: "/uploads/2021/04/01/websitelogoicon.svg"
+  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
+    title="Pricing" target="_blank">Pricing</a>
+  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
+    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
+    href="/privacy" title="Privacy" target="_blank">Privacy</a><br><a href="/terms-of-service"
+    title="Terms of Service" target="_blank">Terms of Service</a>
+  col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
-  headline: ''
-  content: ''
+  headline: Collection of personal information
+  content: "<p>You can access and use the Services without telling us who you are
+    or revealing any information by which someone could identify you as a specific,
+    identifiable individual. If, however, you wish to use some of the features offered
+    on the Services, you may be asked to provide certain Personal Information (for
+    example, your name and e-mail address).</p><p>We receive and store any information
+    you knowingly provide to us when you create an account, make a purchase,  or fill
+    any forms on the Services. When required, this information may include the following:</p><p>-
+    Account details (such as user name, unique user ID, password, etc)</p><p>- Contact
+    information (such as email address, phone number, etc)</p><p>- Basic personal
+    information (such as name, country of residence, etc)</p><p>- Certain features
+    on the mobile device (such as contacts, calendar, gallery, etc)</p><p>- Any other
+    materials you willingly submit to us (such as articles, images, feedback, etc)</p><p>You
+    can choose not to provide us with your Personal Information, but then you may
+    not be able to take advantage of some of the features on the Services. Users who
+    are uncertain about what information is mandatory are welcome to contact us.</p>"
 - template: detail-content
   block: text-1
   headline: ''

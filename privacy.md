@@ -224,16 +224,6 @@ page_sections:
     measures taken by us to safeguard your information. If any such transfer takes
     place, you can find out more by checking the relevant sections of this Policy
     or inquire with us using the information provided in the contact section.</p>"
-- template: 4-column-footer
-  block: footer-2
-  image: "/uploads/2021/04/01/websitelogoicon.svg"
-  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
-    title="Pricing" target="_blank">Pricing</a>
-  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
-    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
-    href="/privacy" title="Privacy" target="_blank">Privacy</a><br><a href="/terms-of-service"
-    title="Terms of Service" target="_blank">Terms of Service</a>
-  col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
   headline: Data protection rights under the GDPR
@@ -292,10 +282,36 @@ page_sections:
     provided that your Personal Information is processed by automated means and that
     the processing is based on your consent, on a contract which you are part of,
     or on pre-contractual obligations thereof.</p>"
+- template: 4-column-footer
+  block: footer-2
+  image: "/uploads/2021/04/01/websitelogoicon.svg"
+  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
+    title="Pricing" target="_blank">Pricing</a>
+  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
+    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
+    href="/privacy" title="Privacy" target="_blank">Privacy</a><br><a href="/terms-of-service"
+    title="Terms of Service" target="_blank">Terms of Service</a>
+  col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
-  headline: ''
-  content: ''
+  headline: California privacy rights
+  content: "<p>Consumers residing in California are afforded certain additional rights
+    with respect to their Personal Information under the California Consumer Privacy
+    Act (“CCPA”). If you are a California resident, this section applies to you.</p><p>As
+    described in this Policy in the information collection section above, we have
+    collected the categories of Personal Information listed below in the past twelve
+    (12) months:</p><p>- Personal identifiers (such as email address, phone number,
+    etc)</p><p>- Professional or employment information</p><p>In addition to the rights
+    as explained in this Policy, California residents who provide Personal Information
+    as defined in the statute to obtain Services for personal, family, or household
+    use are entitled to request and obtain from us, once a calendar year, information
+    about the categories and specific pieces of Personal Information we have collected
+    and disclosed.</p><p>Furthermore, California residents have the right to request
+    deletion of their Personal Information or opt-out of the sale of their Personal
+    Information which may include selling, disclosing, or transferring Personal Information
+    to another business or a third party for monetary or other valuable consideration.
+    To do so, simply contact us. We will not discriminate against you if you exercise
+    your rights under the CCPA.</p>"
 - template: detail-content
   block: text-1
   headline: ''

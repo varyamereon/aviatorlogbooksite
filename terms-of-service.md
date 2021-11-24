@@ -109,6 +109,13 @@ page_sections:
     parties. You should carefully review the legal statements and other conditions
     of use of any resource which you access through a link in the Mobile Application.
     Your linking to any other off-site resources is at your own risk.</p>"
+- template: detail-content
+  block: text-1
+  headline: Transfer of purchased products
+  content: "<p>Any product or subscription purchased shall be tied to an individual
+    user account, and may not be used by or transferred to another user account. We
+    may, in exceptional circumstances, consider exceptions to this rule, but this
+    shall be at our own discretion.</p>"
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2021/04/01/websitelogoicon.svg"
@@ -120,11 +127,46 @@ page_sections:
   col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
-  headline: Transfer of purchased products
-  content: "<p>Any product or subscription purchased shall be tied to an individual
-    user account, and may not be used by or transferred to another user account. We
-    may, in exceptional circumstances, consider exceptions to this rule, but this
-    shall be at our own discretion.</p>"
+  headline: Purchases made via the Google Play Store
+  content: '<p>All purchases made via the Google Play Store are subject to the Google
+    Play Terms of Service, which at the time of writing are available here: <a href="https://play.google.com/about/play-terms/index.html."
+    title="https://play.google.com/about/play-terms/index.html." target="_blank">https://play.google.com/about/play-terms/index.html.</a></p>'
+- template: detail-content
+  block: text-1
+  headline: ''
+  content: ''
+- template: detail-content
+  block: text-1
+  headline: ''
+  content: ''
+- template: detail-content
+  block: text-1
+  headline: ''
+  content: ''
+- template: detail-content
+  block: text-1
+  headline: ''
+  content: ''
+- template: detail-content
+  block: text-1
+  headline: ''
+  content: ''
+- template: detail-content
+  block: text-1
+  headline: ''
+  content: ''
+- template: detail-content
+  block: text-1
+  headline: ''
+  content: ''
+- template: detail-content
+  block: text-1
+  headline: ''
+  content: ''
+- template: detail-content
+  block: text-1
+  headline: ''
+  content: ''
 menu:
   main:
     weight: 4

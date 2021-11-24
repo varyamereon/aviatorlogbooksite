@@ -25,12 +25,12 @@ page_sections:
   heading: Terms of Service
 - template: detail-content
   block: text-1
-  content: '<h2>Terms of service</h2><p>These terms and conditions (“Agreement”) set
-    forth the general terms and conditions of your use of the “Aviator Logbook” mobile
-    application (“Mobile Application” or “Service”) and any of its related products
-    and services (collectively, “Services”). This Agreement is legally binding between
-    you (“User”, “you” or “your”) and Spree Forty Three (“Spree Forty Three”, “we”,
-    “us” or “our”). If you are entering into this agreement on behalf of a business
+  content: '<h2>Terms of service</h2><p></p><p>These terms and conditions (“Agreement”)
+    set forth the general terms and conditions of your use of the “Aviator Logbook”
+    mobile application (“Mobile Application” or “Service”) and any of its related
+    products and services (collectively, “Services”). This Agreement is legally binding
+    between you (“User”, “you” or “your”) and Spree Forty Three (“Spree Forty Three”,
+    “we”, “us” or “our”). If you are entering into this agreement on behalf of a business
     or other legal entity, you represent that you have the authority to bind such
     entity to this agreement, in which case the terms “User”, “you” or “your” shall
     refer to such entity. If you do not have such authority, or if you do not agree

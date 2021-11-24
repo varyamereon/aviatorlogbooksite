@@ -213,15 +213,6 @@ page_sections:
     to assign any of its rights or obligations hereunder, in whole or in part, to
     any third party as part of the sale of all or substantially all of its assets
     or stock or as part of a merger.</p>"
-- template: 4-column-footer
-  block: footer-2
-  image: "/uploads/2021/04/01/websitelogoicon.svg"
-  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
-    title="Pricing" target="_blank">Pricing</a>
-  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
-    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
-    href="/privacy" title="Privacy" target="_blank">Privacy</a>
-  col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
   headline: Changes and amendments
@@ -235,10 +226,23 @@ page_sections:
     Mobile Application and Services after the effective date of the revised Agreement
     (or such other act specified at that time) will constitute your consent to those
     changes.</p>"
+- template: 4-column-footer
+  block: footer-2
+  image: "/uploads/2021/04/01/websitelogoicon.svg"
+  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
+    title="Pricing" target="_blank">Pricing</a>
+  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
+    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
+    href="/privacy" title="Privacy" target="_blank">Privacy</a>
+  col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
-  headline: ''
-  content: ''
+  headline: Acceptance of these terms
+  content: "<p>You acknowledge that you have read this Agreement and agree to all
+    its terms and conditions. By accessing and using the Mobile Application and Services
+    you agree to be bound by this Agreement. If you do not agree to abide by the terms
+    of this Agreement, you are not authorized to access or use the Mobile Application
+    and Services.</p>"
 - template: detail-content
   block: text-1
   headline: ''

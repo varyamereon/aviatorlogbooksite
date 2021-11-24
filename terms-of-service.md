@@ -61,15 +61,6 @@ page_sections:
     damage our reputation and goodwill. If we delete your account for the foregoing
     reasons, you may not re-register for our Services. We may block your email address
     and Internet protocol address to prevent further registration.</p>"
-- template: 4-column-footer
-  block: footer-2
-  image: "/uploads/2021/04/01/websitelogoicon.svg"
-  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
-    title="Pricing" target="_blank">Pricing</a>
-  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
-    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
-    href="/privacy" title="Privacy" target="_blank">Privacy</a>
-  col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
   headline: Billing and payments
@@ -91,10 +82,29 @@ page_sections:
     the same billing and/or shipping address. In the event that we make a change to
     or cancel an order, we may attempt to notify you by contacting the e-mail and/or
     billing address/phone number provided at the time the order was made.</p>"
+- template: 4-column-footer
+  block: footer-2
+  image: "/uploads/2021/04/01/websitelogoicon.svg"
+  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
+    title="Pricing" target="_blank">Pricing</a>
+  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
+    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
+    href="/privacy" title="Privacy" target="_blank">Privacy</a>
+  col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
-  headline: ''
-  content: ''
+  headline: Accuracy of information
+  content: "<p>Occasionally there may be information in the Mobile Application that
+    contains typographical errors, inaccuracies or omissions that may relate to product
+    descriptions, pricing, availability, promotions and offers. We reserve the right
+    to correct any errors, inaccuracies or omissions, and to change or update information
+    or cancel orders if any information in the Mobile Application or Services is inaccurate
+    at any time without prior notice (including after you have submitted your order).
+    We undertake no obligation to update, amend or clarify information in the Mobile
+    Application including, without limitation, pricing information, except as required
+    by law. No specified update or refresh date applied in the Mobile Application
+    should be taken to indicate that all information in the Mobile Application or
+    Services has been modified or updated.</p>"
 - template: detail-content
   block: text-1
   headline: ''

@@ -357,16 +357,6 @@ page_sections:
     practices of such other resources or third parties. We encourage you to be aware
     when you leave the Services and to read the privacy statements of each and every
     resource that may collect Personal Information.</p>"
-- template: 4-column-footer
-  block: footer-2
-  image: "/uploads/2021/04/01/websitelogoicon.svg"
-  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
-    title="Pricing" target="_blank">Pricing</a>
-  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
-    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
-    href="/privacy" title="Privacy" target="_blank">Privacy</a><br><a href="/terms-of-service"
-    title="Terms of Service" target="_blank">Terms of Service</a>
-  col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
   headline: Information security
@@ -385,10 +375,29 @@ page_sections:
     security of the device you use to communicate with us and the security you use
     to protect your credentials, please take appropriate measures to protect this
     information.</p>"
+- template: 4-column-footer
+  block: footer-2
+  image: "/uploads/2021/04/01/websitelogoicon.svg"
+  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
+    title="Pricing" target="_blank">Pricing</a>
+  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
+    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
+    href="/privacy" title="Privacy" target="_blank">Privacy</a><br><a href="/terms-of-service"
+    title="Terms of Service" target="_blank">Terms of Service</a>
+  col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
-  headline: ''
-  content: ''
+  headline: Data breach
+  content: "<p>In the event we become aware that the security of the Services has
+    been compromised or Users’ Personal Information has been disclosed to unrelated
+    third parties as a result of external activity, including, but not limited to,
+    security attacks or fraud, we reserve the right to take reasonably appropriate
+    measures, including, but not limited to, investigation and reporting, as well
+    as notification to and cooperation with law enforcement authorities. In the event
+    of a data breach, we will make reasonable efforts to notify affected individuals
+    if we believe that there is a reasonable risk of harm to the User as a result
+    of the breach or if notice is otherwise required by law. When we do, we will post
+    a notice on the Services.</p>"
 menu:
   main:
     weight: 4

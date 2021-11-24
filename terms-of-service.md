@@ -23,17 +23,6 @@ page_sections:
 - template: text-only-hero-header
   block: hero-3
   heading: Terms of Service
-- template: terms
-  block: terms
-- template: 4-column-footer
-  block: footer-2
-  image: "/uploads/2021/04/01/websitelogoicon.svg"
-  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
-    title="Pricing" target="_blank">Pricing</a>
-  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation">Documentation</a><br><a
-    href="https://spreefortythree.freshdesk.com" title="Support">Support</a><br><a
-    href="/privacy" title="Privacy">Privacy</a>
-  col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
   content: '<h1>Terms and conditions</h1><p></p><p>These terms and conditions (“Agreement”)
@@ -204,6 +193,15 @@ page_sections:
     title="https://spreefortythree.freshdesk.com" target="_blank">https://spreefortythree.freshdesk.com</a></p><p>support@spreefortythree.com</p><p>This
     document was last updated on November 24, 2021</p>'
   headline: Terms and conditions
+- template: 4-column-footer
+  block: footer-2
+  image: "/uploads/2021/04/01/websitelogoicon.svg"
+  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
+    title="Pricing" target="_blank">Pricing</a>
+  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation">Documentation</a><br><a
+    href="https://spreefortythree.freshdesk.com" title="Support">Support</a><br><a
+    href="/privacy" title="Privacy">Privacy</a>
+  col_4: "© Spree Forty Three 2021"
 menu:
   main:
     weight: 4

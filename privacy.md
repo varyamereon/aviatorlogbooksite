@@ -77,16 +77,6 @@ page_sections:
     can choose not to provide us with your Personal Information, but then you may
     not be able to take advantage of some of the features on the Services. Users who
     are uncertain about what information is mandatory are welcome to contact us.</p>"
-- template: 4-column-footer
-  block: footer-2
-  image: "/uploads/2021/04/01/websitelogoicon.svg"
-  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
-    title="Pricing" target="_blank">Pricing</a>
-  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
-    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
-    href="/privacy" title="Privacy" target="_blank">Privacy</a><br><a href="/terms-of-service"
-    title="Terms of Service" target="_blank">Terms of Service</a>
-  col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
   headline: Privacy of children
@@ -101,10 +91,63 @@ page_sections:
     permission. We also ask that all parents and legal guardians overseeing the care
     of children take the necessary precautions to ensure that their children are instructed
     to never give out Personal Information when online without their permission.</p>"
+- template: 4-column-footer
+  block: footer-2
+  image: "/uploads/2021/04/01/websitelogoicon.svg"
+  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
+    title="Pricing" target="_blank">Pricing</a>
+  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
+    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
+    href="/privacy" title="Privacy" target="_blank">Privacy</a><br><a href="/terms-of-service"
+    title="Terms of Service" target="_blank">Terms of Service</a>
+  col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
-  headline: ''
-  content: ''
+  headline: Use and processing of collected information
+  content: "<p>We act as a data controller and a data processor in terms of the GDPR
+    when handling Personal Information, unless we have entered into a data processing
+    agreement with you in which case you would be the data controller and we would
+    be the data processor.</p><p>Our role may also differ depending on the specific
+    situation involving Personal Information. We act in the capacity of a data controller
+    when we ask you to submit your Personal Information that is necessary to ensure
+    your access and use of the Services. In such instances, we are a data controller
+    because we determine the purposes and means of the processing of Personal Information
+    and we comply with data controllers’ obligations set forth in the GDPR.</p><p>We
+    act in the capacity of a data processor in situations when you submit Personal
+    Information through the Services. We do not own, control, or make decisions about
+    the submitted Personal Information, and such Personal Information is processed
+    only in accordance with your instructions. In such instances, the User providing
+    Personal Information acts as a data controller in terms of the GDPR.</p><p>In
+    order to make the Services available to you, or to meet a legal obligation, we
+    may need to collect and use certain Personal Information. If you do not provide
+    the information that we request, we may not be able to provide you with the requested
+    products or services. Any of the information we collect from you may be used for
+    the following purposes:</p><p>- Create and manage user accounts</p><p>- Deliver
+    products or services</p><p>- Improve products and services</p><p>- Respond to
+    inquiries and offer support</p><p>- Improve user experience</p><p>- Enforce terms
+    and conditions and policies</p><p>- Protect from abuse and malicious users</p><p>-
+    Respond to legal requests and prevent harm</p><p>- Run and operate the Services</p><p>Processing
+    your Personal Information depends on how you interact with the Services, where
+    you are located in the world and if one of the following applies: (i) you have
+    given your consent for one or more specific purposes; this, however, does not
+    apply, whenever the processing of Personal Information is subject to California
+    Consumer Privacy Act or European data protection law; (ii) provision of information
+    is necessary for the performance of an agreement with you and/or for any pre-contractual
+    obligations thereof; (iii) processing is necessary for compliance with a legal
+    obligation to which you are subject; (iv) processing is related to a task that
+    is carried out in the public interest or in the exercise of official authority
+    vested in us; (v) processing is necessary for the purposes of the legitimate interests
+    pursued by us or by a third party. We may also combine or aggregate some of your
+    Personal Information in order to better serve you and to improve and update our
+    Services.</p><p>We rely on the following legal bases as defined in the GDPR upon
+    which we collect and process your Personal Information:</p><p>- User’s consent</p><p>-
+    Our own legitimate interests</p><p>Note that under some legislations we may be
+    allowed to process information until you object to such processing by opting out,
+    without having to rely on consent or any other of the legal bases above. In any
+    case, we will be happy to clarify the specific legal basis that applies to the
+    processing, and in particular whether the provision of Personal Information is
+    a statutory or contractual requirement, or a requirement necessary to enter into
+    a contract.</p>"
 - template: detail-content
   block: text-1
   headline: ''

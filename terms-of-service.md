@@ -150,15 +150,6 @@ page_sections:
     Mobile Application and Services may be the trademarks of other third parties.
     Your use of the Mobile Application and Services grants you no right or license
     to reproduce or otherwise use any of Spree Forty Three or third party trademarks.</p>"
-- template: 4-column-footer
-  block: footer-2
-  image: "/uploads/2021/04/01/websitelogoicon.svg"
-  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
-    title="Pricing" target="_blank">Pricing</a>
-  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
-    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
-    href="/privacy" title="Privacy" target="_blank">Privacy</a>
-  col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
   headline: Disclaimer of warranty
@@ -179,10 +170,35 @@ page_sections:
     transactions entered into through the Service unless stated otherwise. No advice
     or information, whether oral or written, obtained by you from us or through the
     Service shall create any warranty not expressly made herein.</p>"
+- template: 4-column-footer
+  block: footer-2
+  image: "/uploads/2021/04/01/websitelogoicon.svg"
+  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
+    title="Pricing" target="_blank">Pricing</a>
+  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
+    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
+    href="/privacy" title="Privacy" target="_blank">Privacy</a>
+  col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
-  headline: ''
-  content: ''
+  headline: Limitation of liability
+  content: "<p>To the fullest extent permitted by applicable law, in no event will
+    Spree Forty Three, its affiliates, directors, officers, employees, agents, suppliers
+    or licensors be liable to any person for any indirect, incidental, special, punitive,
+    cover or consequential damages (including, without limitation, damages for lost
+    profits, revenue, sales, goodwill, use of content, impact on business, business
+    interruption, loss of anticipated savings, loss of business opportunity) however
+    caused, under any theory of liability, including, without limitation, contract,
+    tort, warranty, breach of statutory duty, negligence or otherwise, even if the
+    liable party has been advised as to the possibility of such damages or could have
+    foreseen such damages. To the maximum extent permitted by applicable law, the
+    aggregate liability of Spree Forty Three and its affiliates, officers, employees,
+    agents, suppliers and licensors relating to the services will be limited to an
+    amount no greater than one dollar or any amounts actually paid in cash by you
+    to Spree Forty Three for the prior one month period prior to the first event or
+    occurrence giving rise to such liability. The limitations and exclusions also
+    apply if this remedy does not fully compensate you for any losses or fails of
+    its essential purpose.</p>"
 - template: detail-content
   block: text-1
   headline: ''

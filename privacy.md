@@ -302,16 +302,6 @@ page_sections:
     to another business or a third party for monetary or other valuable consideration.
     To do so, simply contact us. We will not discriminate against you if you exercise
     your rights under the CCPA.</p>"
-- template: 4-column-footer
-  block: footer-2
-  image: "/uploads/2021/04/01/websitelogoicon.svg"
-  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
-    title="Pricing" target="_blank">Pricing</a>
-  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
-    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
-    href="/privacy" title="Privacy" target="_blank">Privacy</a><br><a href="/terms-of-service"
-    title="Terms of Service" target="_blank">Terms of Service</a>
-  col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
   headline: How to exercise your rights
@@ -328,10 +318,28 @@ page_sections:
     your request or provide you with Personal Information unless we first verify your
     identity or authority to make such a request and confirm that the Personal Information
     relates to you.</p>"
+- template: 4-column-footer
+  block: footer-2
+  image: "/uploads/2021/04/01/websitelogoicon.svg"
+  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
+    title="Pricing" target="_blank">Pricing</a>
+  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
+    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
+    href="/privacy" title="Privacy" target="_blank">Privacy</a><br><a href="/terms-of-service"
+    title="Terms of Service" target="_blank">Terms of Service</a>
+  col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
-  headline: ''
-  content: ''
+  headline: Data analytics
+  content: "<p>Our Services may use third-party analytics tools that use cookies,
+    web beacons, or other similar information-gathering technologies to collect standard
+    internet activity and usage information. The information gathered is used to compile
+    statistical reports on User activity such as how often Users visit our Services,
+    what pages they visit and for how long, etc. We use the information obtained from
+    these analytics tools to monitor the performance and improve our Services. We
+    do not use third-party analytics tools to track or to collect any personally identifiable
+    information of our Users and we will not associate any information gathered from
+    the statistical reports with any individual User.</p>"
 - template: detail-content
   block: text-1
   headline: ''

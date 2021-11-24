@@ -140,8 +140,25 @@ page_sections:
   col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
-  headline: ''
-  content: ''
+  headline: Intellectual property rights
+  content: "<p>“Intellectual Property Rights” means all present and future rights
+    conferred by statute, common law or equity in or in relation to any copyright
+    and related rights, trademarks, designs, patents, inventions, goodwill and the
+    right to sue for passing off, rights to inventions, rights to use, and all other
+    intellectual property rights, in each case whether registered or unregistered
+    and including all applications and rights to apply for and be granted, rights
+    to claim priority from, such rights and all similar or equivalent rights or forms
+    of protection and any other results of intellectual activity which subsist or
+    will subsist now or in the future in any part of the world. This Agreement does
+    not transfer to you any intellectual property owned by Spree Forty Three or third
+    parties, and all rights, titles, and interests in and to such property will remain
+    (as between the parties) solely with Spree Forty Three. All trademarks, service
+    marks, graphics and logos used in connection with the Mobile Application and Services,
+    are trademarks or registered trademarks of Spree Forty Three or its licensors.
+    Other trademarks, service marks, graphics and logos used in connection with the
+    Mobile Application and Services may be the trademarks of other third parties.
+    Your use of the Mobile Application and Services grants you no right or license
+    to reproduce or otherwise use any of Spree Forty Three or third party trademarks.</p>"
 - template: detail-content
   block: text-1
   headline: ''

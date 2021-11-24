@@ -23,16 +23,6 @@ page_sections:
 - template: text-only-hero-header
   block: hero-3
   heading: Privacy Policy
-- template: 4-column-footer
-  block: footer-2
-  image: "/uploads/2021/04/01/websitelogoicon.svg"
-  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
-    title="Pricing" target="_blank">Pricing</a>
-  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
-    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
-    href="/privacy" title="Privacy" target="_blank">Privacy</a><br><a href="/terms-of-service"
-    title="Terms of Service" target="_blank">Terms of Service</a>
-  col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
   headline: Privacy policy
@@ -55,6 +45,98 @@ page_sections:
     that you have read, understood, and agree to be bound by the terms of this Policy.
     This Policy does not apply to the practices of companies that we do not own or
     control, or to individuals that we do not employ or manage.</p>"
+- template: 4-column-footer
+  block: footer-2
+  image: "/uploads/2021/04/01/websitelogoicon.svg"
+  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
+    title="Pricing" target="_blank">Pricing</a>
+  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
+    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
+    href="/privacy" title="Privacy" target="_blank">Privacy</a><br><a href="/terms-of-service"
+    title="Terms of Service" target="_blank">Terms of Service</a>
+  col_4: "© Spree Forty Three 2021"
+- template: detail-content
+  block: text-1
+  headline: Automatic collection of information
+  content: "<p>When you open the Website or use the Mobile Application, our servers
+    automatically record information that your browser or device sends. This data
+    may include information such as your device’s IP address and location, browser
+    and device name and version, operating system type and version, language preferences,
+    the webpage you were visiting before you came to the Services, pages of the Services
+    that you visit, the time spent on those pages, the information you search for
+    on the Services, access times and dates, and other statistics.</p><p>Information
+    collected automatically is used only to identify potential cases of abuse and
+    establish statistical information regarding the usage and traffic of the Services.
+    This statistical information is not otherwise aggregated in such a way that would
+    identify any particular User of the system.</p>"
+- template: detail-content
+  block: text-1
+  headline: ''
+  content: ''
+- template: detail-content
+  block: text-1
+  headline: ''
+  content: ''
+- template: detail-content
+  block: text-1
+  headline: ''
+  content: ''
+- template: detail-content
+  block: text-1
+  headline: ''
+  content: ''
+- template: detail-content
+  block: text-1
+  headline: ''
+  content: ''
+- template: detail-content
+  block: text-1
+  headline: ''
+  content: ''
+- template: detail-content
+  block: text-1
+  headline: ''
+  content: ''
+- template: detail-content
+  block: text-1
+  headline: ''
+  content: ''
+- template: detail-content
+  block: text-1
+  headline: ''
+  content: ''
+- template: detail-content
+  block: text-1
+  headline: ''
+  content: ''
+- template: detail-content
+  block: text-1
+  headline: ''
+  content: ''
+- template: detail-content
+  block: text-1
+  headline: ''
+  content: ''
+- template: detail-content
+  block: text-1
+  headline: ''
+  content: ''
+- template: detail-content
+  block: text-1
+  headline: ''
+  content: ''
+- template: detail-content
+  block: text-1
+  headline: ''
+  content: ''
+- template: detail-content
+  block: text-1
+  headline: ''
+  content: ''
+- template: detail-content
+  block: text-1
+  headline: ''
+  content: ''
 menu:
   main:
     weight: 4

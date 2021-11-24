@@ -282,16 +282,6 @@ page_sections:
     provided that your Personal Information is processed by automated means and that
     the processing is based on your consent, on a contract which you are part of,
     or on pre-contractual obligations thereof.</p>"
-- template: 4-column-footer
-  block: footer-2
-  image: "/uploads/2021/04/01/websitelogoicon.svg"
-  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
-    title="Pricing" target="_blank">Pricing</a>
-  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
-    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
-    href="/privacy" title="Privacy" target="_blank">Privacy</a><br><a href="/terms-of-service"
-    title="Terms of Service" target="_blank">Terms of Service</a>
-  col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
   headline: California privacy rights
@@ -312,10 +302,32 @@ page_sections:
     to another business or a third party for monetary or other valuable consideration.
     To do so, simply contact us. We will not discriminate against you if you exercise
     your rights under the CCPA.</p>"
+- template: 4-column-footer
+  block: footer-2
+  image: "/uploads/2021/04/01/websitelogoicon.svg"
+  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
+    title="Pricing" target="_blank">Pricing</a>
+  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
+    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
+    href="/privacy" title="Privacy" target="_blank">Privacy</a><br><a href="/terms-of-service"
+    title="Terms of Service" target="_blank">Terms of Service</a>
+  col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
-  headline: ''
-  content: ''
+  headline: How to exercise your rights
+  content: "<p>Any requests to exercise your rights can be directed to us through
+    the contact details provided in this document. Please note that we may ask you
+    to verify your identity before responding to such requests. Your request must
+    provide sufficient information that allows us to verify that you are the person
+    you are claiming to be or that you are the authorized representative of such person.
+    If we receive your request from an authorized representative, we may request evidence
+    that you have provided such an authorized representative with power of attorney
+    or that the authorized representative otherwise has valid written authority to
+    submit requests on your behalf.</p><p>You must include sufficient details to allow
+    us to properly understand the request and respond to it. We cannot respond to
+    your request or provide you with Personal Information unless we first verify your
+    identity or authority to make such a request and confirm that the Personal Information
+    relates to you.</p>"
 - template: detail-content
   block: text-1
   headline: ''

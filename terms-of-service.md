@@ -129,15 +129,6 @@ page_sections:
     Services Terms and Conditions, which at the time of writing are available here:
     <a href="https://www.apple.com/legal/internet-services/itunes/us/terms.html."
     title="Apple Media Services Terms and Conditions" target="_blank">https://www.apple.com/legal/internet-services/itunes/us/terms.html.</a>.</p>'
-- template: 4-column-footer
-  block: footer-2
-  image: "/uploads/2021/04/01/websitelogoicon.svg"
-  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
-    title="Pricing" target="_blank">Pricing</a>
-  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
-    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
-    href="/privacy" title="Privacy" target="_blank">Privacy</a>
-  col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
   headline: Intellectual property rights
@@ -159,10 +150,35 @@ page_sections:
     Mobile Application and Services may be the trademarks of other third parties.
     Your use of the Mobile Application and Services grants you no right or license
     to reproduce or otherwise use any of Spree Forty Three or third party trademarks.</p>"
+- template: 4-column-footer
+  block: footer-2
+  image: "/uploads/2021/04/01/websitelogoicon.svg"
+  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
+    title="Pricing" target="_blank">Pricing</a>
+  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
+    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
+    href="/privacy" title="Privacy" target="_blank">Privacy</a>
+  col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
-  headline: ''
-  content: ''
+  headline: Disclaimer of warranty
+  content: "<p>You agree that such Service is provided on an “as is” and “as available”
+    basis and that your use of the Mobile Application and Services is solely at your
+    own risk. We expressly disclaim all warranties of any kind, whether express or
+    implied, including but not limited to the implied warranties of merchantability,
+    fitness for a particular purpose and non-infringement. We make no warranty that
+    the Services will meet your requirements, or that the Service will be uninterrupted,
+    timely, secure, or error-free; nor do we make any warranty as to the results that
+    may be obtained from the use of the Service or as to the accuracy or reliability
+    of any information obtained through the Service or that defects in the Service
+    will be corrected. You understand and agree that any material and/or data downloaded
+    or otherwise obtained through the use of Service is done at your own discretion
+    and risk and that you will be solely responsible for any damage or loss of data
+    that results from the download of such material and/or data. We make no warranty
+    regarding any goods or services purchased or obtained through the Service or any
+    transactions entered into through the Service unless stated otherwise. No advice
+    or information, whether oral or written, obtained by you from us or through the
+    Service shall create any warranty not expressly made herein.</p>"
 - template: detail-content
   block: text-1
   headline: ''

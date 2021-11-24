@@ -330,16 +330,6 @@ page_sections:
     do not use third-party analytics tools to track or to collect any personally identifiable
     information of our Users and we will not associate any information gathered from
     the statistical reports with any individual User.</p>"
-- template: 4-column-footer
-  block: footer-2
-  image: "/uploads/2021/04/01/websitelogoicon.svg"
-  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
-    title="Pricing" target="_blank">Pricing</a>
-  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
-    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
-    href="/privacy" title="Privacy" target="_blank">Privacy</a><br><a href="/terms-of-service"
-    title="Terms of Service" target="_blank">Terms of Service</a>
-  col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
   headline: Do Not Track signals
@@ -352,10 +342,23 @@ page_sections:
     and across third-party websites. However, some third-party websites may keep track
     of your browsing activities when they serve you content, which enables them to
     tailor what they present to you.</p>"
+- template: 4-column-footer
+  block: footer-2
+  image: "/uploads/2021/04/01/websitelogoicon.svg"
+  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
+    title="Pricing" target="_blank">Pricing</a>
+  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
+    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
+    href="/privacy" title="Privacy" target="_blank">Privacy</a><br><a href="/terms-of-service"
+    title="Terms of Service" target="_blank">Terms of Service</a>
+  col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
-  headline: ''
-  content: ''
+  headline: Affiliate links
+  content: "<p>We may engage in affiliate marketing and have affiliate links present
+    on the Services for the purpose of being able to offer you related or additional
+    products and services. If you click on an affiliate link, a cookie will be placed
+    on your browser to track any sales for purposes of commissions.</p>"
 - template: detail-content
   block: text-1
   headline: ''

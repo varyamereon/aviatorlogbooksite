@@ -197,7 +197,7 @@ page_sections:
     href="https://spreefortythree.freshdesk.com" title="https://spreefortythree.freshdesk.com"
     target="_blank">https://spreefortythree.freshdesk.com</a>)  </p><p>support@spreefortythree.com</p><p>This
     document was last updated on November 24, 2021</p>'
-  headline: Terms and conditions
+  headline: Terms of service
 - template: detail-content
   block: text-1
   headline: Accounts and membership

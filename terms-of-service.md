@@ -72,8 +72,25 @@ page_sections:
   col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
-  headline: ''
-  content: ''
+  headline: Billing and payments
+  content: "<p>You shall pay all fees or charges to your account in accordance with
+    the fees, charges, and billing terms in effect at the time a fee or charge is
+    due and payable. Where Services are offered on a free trial basis, payment may
+    be required after the free trial period ends, and not when you enter your billing
+    details (which may be required prior to the commencement of the free trial period).
+    If auto-renewal is enabled for the Services you have subscribed for, you will
+    be charged automatically in accordance with the term you selected. If, in our
+    judgment, your purchase constitutes a high-risk transaction, we will require you
+    to provide us with a copy of your valid government-issued photo identification,
+    and possibly a copy of a recent bank statement for the credit or debit card used
+    for the purchase. We reserve the right to change products and product pricing
+    at any time. We also reserve the right to refuse any order you place with us.
+    We may, in our sole discretion, limit or cancel quantities purchased per person,
+    per household or per order. These restrictions may include orders placed by or
+    under the same customer account, the same credit card, and/or orders that use
+    the same billing and/or shipping address. In the event that we make a change to
+    or cancel an order, we may attempt to notify you by contacting the e-mail and/or
+    billing address/phone number provided at the time the order was made.</p>"
 - template: detail-content
   block: text-1
   headline: ''

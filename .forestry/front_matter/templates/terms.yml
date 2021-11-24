@@ -2,11 +2,12 @@
 label: terms
 hide_body: true
 fields:
-- name: terms
+- name: block
   type: blocks
-  label: Terms of Service
+  label: block
   template_types:
   - terms
   config:
     min: 
     max: 
+  hidden: true

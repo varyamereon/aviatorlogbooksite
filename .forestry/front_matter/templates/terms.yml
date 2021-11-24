@@ -8,3 +8,4 @@ fields:
     required: false
   label: block
   hidden: true
+  default: terms

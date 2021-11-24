@@ -197,7 +197,7 @@ page_sections:
     href="https://spreefortythree.freshdesk.com" title="https://spreefortythree.freshdesk.com"
     target="_blank">https://spreefortythree.freshdesk.com</a>)  </p><p>support@spreefortythree.com</p><p>This
     document was last updated on November 24, 2021</p>'
-  headline: Terms of service
+  headline: ''
 - template: detail-content
   block: text-1
   headline: Accounts and membership
@@ -223,9 +223,9 @@ page_sections:
   image: "/uploads/2021/04/01/websitelogoicon.svg"
   col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
     title="Pricing" target="_blank">Pricing</a>
-  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation">Documentation</a><br><a
-    href="https://spreefortythree.freshdesk.com" title="Support">Support</a><br><a
-    href="/privacy" title="Privacy">Privacy</a>
+  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
+    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
+    href="/privacy" title="Privacy" target="_blank">Privacy</a>
   col_4: "© Spree Forty Three 2021"
 menu:
   main:

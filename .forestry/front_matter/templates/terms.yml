@@ -1,11 +1,9 @@
 ---
 label: terms
-hide_body: true
+hide_body: false
 fields:
-- name: block
-  type: text
-  config:
-    required: false
-  label: block
+- type: text
   hidden: true
+  label: block
+  name: block
   default: terms

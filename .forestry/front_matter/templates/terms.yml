@@ -3,11 +3,8 @@ label: terms
 hide_body: true
 fields:
 - name: block
-  type: blocks
-  label: block
-  template_types:
-  - terms
+  type: text
   config:
-    min: 
-    max: 
+    required: false
+  label: block
   hidden: true

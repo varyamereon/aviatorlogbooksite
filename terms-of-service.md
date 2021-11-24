@@ -240,8 +240,8 @@ page_sections:
   content: <p>If you have any questions, concerns, or complaints regarding this Agreement,
     we encourage you to contact us using the details below:</p><p><a href="https://spreefortythree.freshdesk.com"
     title="Contact Us" target="_blank">https://spreefortythree.freshdesk.com</a></p><p><a
-    href="mailto:support@spreefortythree.com" title="Email Us" target="_blank">support@spreefortythree.com</a></p><p></p><p>This
-    document was last updated on November 24, 2021</p>
+    href="mailto:support@spreefortythree.com" title="Email Us" target="_blank">support@spreefortythree.com</a></p><p></p><p><em>This
+    document was last updated on November 24, 2021</em></p>
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2021/04/01/websitelogoicon.svg"

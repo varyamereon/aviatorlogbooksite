@@ -198,16 +198,6 @@ page_sections:
     through a business transition, such as a merger or acquisition by another company,
     or sale of all or a portion of its assets, your user account, and your Personal
     Information will likely be among the assets transferred.</p>"
-- template: 4-column-footer
-  block: footer-2
-  image: "/uploads/2021/04/01/websitelogoicon.svg"
-  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
-    title="Pricing" target="_blank">Pricing</a>
-  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
-    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
-    href="/privacy" title="Privacy" target="_blank">Privacy</a><br><a href="/terms-of-service"
-    title="Terms of Service" target="_blank">Terms of Service</a>
-  col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
   headline: Retention of information
@@ -220,10 +210,30 @@ page_sections:
     expires, Personal Information shall be deleted. Therefore, the right to access,
     the right to erasure, the right to rectification, and the right to data portability
     cannot be enforced after the expiration of the retention period.</p>"
+- template: 4-column-footer
+  block: footer-2
+  image: "/uploads/2021/04/01/websitelogoicon.svg"
+  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
+    title="Pricing" target="_blank">Pricing</a>
+  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
+    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
+    href="/privacy" title="Privacy" target="_blank">Privacy</a><br><a href="/terms-of-service"
+    title="Terms of Service" target="_blank">Terms of Service</a>
+  col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
-  headline: ''
-  content: ''
+  headline: Transfer of information
+  content: "<p>Depending on your location, data transfers may involve transferring
+    and storing your information in a country other than your own, including USA.
+    The transfer of your Personal Information to countries outside the European Union
+    will be made only if you have explicitly consented to it or in the cases provided
+    for by the GDPR and will be processed in your interest.</p><p>You are entitled
+    to learn about the legal basis of information transfers to a country outside the
+    European Union or to any international organization governed by public international
+    law or set up by two or more countries, such as the UN, and about the security
+    measures taken by us to safeguard your information. If any such transfer takes
+    place, you can find out more by checking the relevant sections of this Policy
+    or inquire with us using the information provided in the contact section.</p>"
 - template: detail-content
   block: text-1
   headline: ''

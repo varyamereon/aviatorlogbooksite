@@ -342,6 +342,13 @@ page_sections:
     and across third-party websites. However, some third-party websites may keep track
     of your browsing activities when they serve you content, which enables them to
     tailor what they present to you.</p>"
+- template: detail-content
+  block: text-1
+  headline: Affiliate links
+  content: "<p>We may engage in affiliate marketing and have affiliate links present
+    on the Services for the purpose of being able to offer you related or additional
+    products and services. If you click on an affiliate link, a cookie will be placed
+    on your browser to track any sales for purposes of commissions.</p>"
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2021/04/01/websitelogoicon.svg"
@@ -354,15 +361,12 @@ page_sections:
   col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
-  headline: Affiliate links
-  content: "<p>We may engage in affiliate marketing and have affiliate links present
-    on the Services for the purpose of being able to offer you related or additional
-    products and services. If you click on an affiliate link, a cookie will be placed
-    on your browser to track any sales for purposes of commissions.</p>"
-- template: detail-content
-  block: text-1
-  headline: ''
-  content: ''
+  headline: Links to other resources
+  content: "<p>The Services contain links to other resources that are not owned or
+    controlled by us. Please be aware that we are not responsible for the privacy
+    practices of such other resources or third parties. We encourage you to be aware
+    when you leave the Services and to read the privacy statements of each and every
+    resource that may collect Personal Information.</p>"
 - template: detail-content
   block: text-1
   headline: ''

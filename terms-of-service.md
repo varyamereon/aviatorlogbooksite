@@ -96,15 +96,6 @@ page_sections:
     by law. No specified update or refresh date applied in the Mobile Application
     should be taken to indicate that all information in the Mobile Application or
     Services has been modified or updated.</p>"
-- template: 4-column-footer
-  block: footer-2
-  image: "/uploads/2021/04/01/websitelogoicon.svg"
-  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
-    title="Pricing" target="_blank">Pricing</a>
-  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
-    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
-    href="/privacy" title="Privacy" target="_blank">Privacy</a>
-  col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
   headline: Links to other resources
@@ -118,10 +109,22 @@ page_sections:
     parties. You should carefully review the legal statements and other conditions
     of use of any resource which you access through a link in the Mobile Application.
     Your linking to any other off-site resources is at your own risk.</p>"
+- template: 4-column-footer
+  block: footer-2
+  image: "/uploads/2021/04/01/websitelogoicon.svg"
+  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
+    title="Pricing" target="_blank">Pricing</a>
+  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
+    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
+    href="/privacy" title="Privacy" target="_blank">Privacy</a>
+  col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
-  headline: ''
-  content: ''
+  headline: Transfer of purchased products
+  content: "<p>Any product or subscription purchased shall be tied to an individual
+    user account, and may not be used by or transferred to another user account. We
+    may, in exceptional circumstances, consider exceptions to this rule, but this
+    shall be at our own discretion.</p>"
 menu:
   main:
     weight: 4

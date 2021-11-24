@@ -37,9 +37,10 @@ page_sections:
   block: footer-2
   image: "/uploads/2021/04/01/websitelogoicon.svg"
   col_2: <a href="/features" title="Features">Features</a><br><a href="/pricing" title="Pricing">Pricing</a>
-  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation">Documentation</a><br><a
-    href="https://spreefortythree.freshdesk.com" title="Support">Support</a><br><a
-    href="/privacy" title="Privacy">Privacy</a>
+  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
+    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
+    href="/privacy" title="Privacy" target="_blank">Privacy</a><br><a href="/terms-of-service"
+    title="Terms of Service" target="_blank">Terms of Service</a>
   col_4: "© Spree Forty Three 2021"
 
 ---

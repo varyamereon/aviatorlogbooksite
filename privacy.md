@@ -91,16 +91,6 @@ page_sections:
     permission. We also ask that all parents and legal guardians overseeing the care
     of children take the necessary precautions to ensure that their children are instructed
     to never give out Personal Information when online without their permission.</p>"
-- template: 4-column-footer
-  block: footer-2
-  image: "/uploads/2021/04/01/websitelogoicon.svg"
-  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
-    title="Pricing" target="_blank">Pricing</a>
-  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
-    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
-    href="/privacy" title="Privacy" target="_blank">Privacy</a><br><a href="/terms-of-service"
-    title="Terms of Service" target="_blank">Terms of Service</a>
-  col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
   headline: Use and processing of collected information
@@ -148,10 +138,42 @@ page_sections:
     processing, and in particular whether the provision of Personal Information is
     a statutory or contractual requirement, or a requirement necessary to enter into
     a contract.</p>"
+- template: 4-column-footer
+  block: footer-2
+  image: "/uploads/2021/04/01/websitelogoicon.svg"
+  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
+    title="Pricing" target="_blank">Pricing</a>
+  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
+    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
+    href="/privacy" title="Privacy" target="_blank">Privacy</a><br><a href="/terms-of-service"
+    title="Terms of Service" target="_blank">Terms of Service</a>
+  col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
-  headline: ''
-  content: ''
+  headline: Payment processing
+  content: "<p>In case of Services requiring payment, you may need to provide your
+    credit card details or other payment account information, which will be used solely
+    for processing payments. We use third-party payment processors (“Payment Processors”)
+    to assist us in processing your payment information securely.</p><p>Payment Processors
+    adhere to the latest security standards as managed by the PCI Security Standards
+    Council, which is a joint effort of brands like Visa, MasterCard, American Express
+    and Discover.  Sensitive and private data exchange happens over a SSL secured
+    communication channel and is encrypted and protected with digital signatures,
+    and the Services are also in compliance with strict vulnerability standards in
+    order to create as secure of an environment as possible for Users. We will share
+    payment data with the Payment Processors only to the extent necessary for the
+    purposes of processing your payments, refunding such payments, and dealing with
+    complaints and queries related to such payments and refunds.</p><p>Please note
+    that the Payment Processors may collect some Personal Information from you, which
+    allows them to process your payments (e.g., your email address, address, credit
+    card details, and bank account number) and handle all the steps in the payment
+    process through their systems, including data collection and data processing.
+    Where necessary for processing future or recurring payments and subject to your
+    prior consent, your financial information will be stored in encrypted form on
+    secure servers of our Payment Processors. The Payment Processors’ use of your
+    Personal Information is governed by their respective privacy policies which may
+    or may not contain privacy protections as protective as this Policy. We suggest
+    that you review their respective privacy policies.</p>"
 - template: detail-content
   block: text-1
   headline: ''

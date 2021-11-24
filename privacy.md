@@ -375,16 +375,6 @@ page_sections:
     security of the device you use to communicate with us and the security you use
     to protect your credentials, please take appropriate measures to protect this
     information.</p>"
-- template: 4-column-footer
-  block: footer-2
-  image: "/uploads/2021/04/01/websitelogoicon.svg"
-  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
-    title="Pricing" target="_blank">Pricing</a>
-  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
-    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
-    href="/privacy" title="Privacy" target="_blank">Privacy</a><br><a href="/terms-of-service"
-    title="Terms of Service" target="_blank">Terms of Service</a>
-  col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
   headline: Data breach
@@ -398,6 +388,38 @@ page_sections:
     if we believe that there is a reasonable risk of harm to the User as a result
     of the breach or if notice is otherwise required by law. When we do, we will post
     a notice on the Services.</p>"
+- template: 4-column-footer
+  block: footer-2
+  image: "/uploads/2021/04/01/websitelogoicon.svg"
+  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
+    title="Pricing" target="_blank">Pricing</a>
+  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
+    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
+    href="/privacy" title="Privacy" target="_blank">Privacy</a><br><a href="/terms-of-service"
+    title="Terms of Service" target="_blank">Terms of Service</a>
+  col_4: "© Spree Forty Three 2021"
+- template: detail-content
+  block: text-1
+  headline: Changes and amendments
+  content: "<p>We reserve the right to modify this Policy or its terms related to
+    the Services at any time at our discretion. When we do, we will revise the updated
+    date at the bottom of this page, post a notification within the Services. We may
+    also provide notice to you in other ways at our discretion, such as through the
+    contact information you have provided.</p><p>An updated version of this Policy
+    will be effective immediately upon the posting of the revised Policy unless otherwise
+    specified. Your continued use of the Services after the effective date of the
+    revised Policy (or such other act specified at that time) will constitute your
+    consent to those changes. However, we will not, without your consent, use your
+    Personal Information in a manner materially different than what was stated at
+    the time your Personal Information was collected.</p>"
+- template: detail-content
+  block: text-1
+  headline: ''
+  content: ''
+- template: detail-content
+  block: text-1
+  headline: ''
+  content: ''
 menu:
   main:
     weight: 4

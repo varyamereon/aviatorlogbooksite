@@ -25,67 +25,67 @@ page_sections:
   heading: Terms of Service
 - template: detail-content
   block: text-1
-  content: '<h1>Terms and conditions</h1><p></p><p>These terms and conditions (“Agreement”)
-    set forth the general terms and conditions of your use of the “Aviator Logbook”
-    mobile application (“Mobile Application” or “Service”) and any of its related
-    products and services (collectively, “Services”). This Agreement is legally binding
-    between you (“User”, “you” or “your”) and Spree Forty Three (“Spree Forty Three”,
-    “we”, “us” or “our”). If you are entering into this agreement on behalf of a business
-    or other legal entity, you represent that you have the authority to bind such
-    entity to this agreement, in which case the terms “User”, “you” or “your” shall
-    refer to such entity. If you do not have such authority, or if you do not agree
-    with the terms of this agreement, you must not accept this agreement and may not
-    access and use the Mobile Application and Services. By accessing and using the
-    Mobile Application and Services, you acknowledge that you have read, understood,
-    and agree to be bound by the terms of this Agreement. You acknowledge that this
-    Agreement is a contract between you and Spree Forty Three, even though it is electronic
-    and is not physically signed by you, and it governs your use of the Mobile Application
-    and Services.</p><h2>Accounts and membership</h2><p>You must be at least 13 years
-    of age to use the Mobile Application and Services. By using the Mobile Application
-    and Services and by agreeing to this Agreement you warrant and represent that
-    you are at least 13 years of age. If you create an account in the Mobile Application,
-    you are responsible for maintaining the security of your account and you are fully
-    responsible for all activities that occur under the account and any other actions
-    taken in connection with it. We may, but have no obligation to, monitor and review
-    new accounts before you may sign in and start using the Services. Providing false
-    contact information of any kind may result in the termination of your account.
-    You must immediately notify us of any unauthorized uses of your account or any
-    other breaches of security. We will not be liable for any acts or omissions by
-    you, including any damages of any kind incurred as a result of such acts or omissions.
-    We may suspend, disable, or delete your account (or any part thereof) if we determine
-    that you have violated any provision of this Agreement or that your conduct or
-    content would tend to damage our reputation and goodwill. If we delete your account
-    for the foregoing reasons, you may not re-register for our Services. We may block
-    your email address and Internet protocol address to prevent further registration.</p><h2>Billing
-    and payments</h2><p>You shall pay all fees or charges to your account in accordance
-    with the fees, charges, and billing terms in effect at the time a fee or charge
-    is due and payable. Where Services are offered on a free trial basis, payment
-    may be required after the free trial period ends, and not when you enter your
-    billing details (which may be required prior to the commencement of the free trial
-    period). If auto-renewal is enabled for the Services you have subscribed for,
-    you will be charged automatically in accordance with the term you selected. If,
-    in our judgment, your purchase constitutes a high-risk transaction, we will require
-    you to provide us with a copy of your valid government-issued photo identification,
-    and possibly a copy of a recent bank statement for the credit or debit card used
-    for the purchase. We reserve the right to change products and product pricing
-    at any time. We also reserve the right to refuse any order you place with us.
-    We may, in our sole discretion, limit or cancel quantities purchased per person,
-    per household or per order. These restrictions may include orders placed by or
-    under the same customer account, the same credit card, and/or orders that use
-    the same billing and/or shipping address. In the event that we make a change to
-    or cancel an order, we may attempt to notify you by contacting the e-mail and/or
-    billing address/phone number provided at the time the order was made.</p><h2>Accuracy
-    of information</h2><p>Occasionally there may be information in the Mobile Application
-    that contains typographical errors, inaccuracies or omissions that may relate
-    to product descriptions, pricing, availability, promotions and offers. We reserve
-    the right to correct any errors, inaccuracies or omissions, and to change or update
-    information or cancel orders if any information in the Mobile Application or Services
-    is inaccurate at any time without prior notice (including after you have submitted
-    your order). We undertake no obligation to update, amend or clarify information
-    in the Mobile Application including, without limitation, pricing information,
-    except as required by law. No specified update or refresh date applied in the
-    Mobile Application should be taken to indicate that all information in the Mobile
-    Application or Services has been modified or updated.</p><h2>Links to other resources</h2><p>Although
+  content: '<p>These terms and conditions (“Agreement”) set forth the general terms
+    and conditions of your use of the “Aviator Logbook” mobile application (“Mobile
+    Application” or “Service”) and any of its related products and services (collectively,
+    “Services”). This Agreement is legally binding between you (“User”, “you” or “your”)
+    and Spree Forty Three (“Spree Forty Three”, “we”, “us” or “our”). If you are entering
+    into this agreement on behalf of a business or other legal entity, you represent
+    that you have the authority to bind such entity to this agreement, in which case
+    the terms “User”, “you” or “your” shall refer to such entity. If you do not have
+    such authority, or if you do not agree with the terms of this agreement, you must
+    not accept this agreement and may not access and use the Mobile Application and
+    Services. By accessing and using the Mobile Application and Services, you acknowledge
+    that you have read, understood, and agree to be bound by the terms of this Agreement.
+    You acknowledge that this Agreement is a contract between you and Spree Forty
+    Three, even though it is electronic and is not physically signed by you, and it
+    governs your use of the Mobile Application and Services.</p><h2>Accounts and membership</h2><p>You
+    must be at least 13 years of age to use the Mobile Application and Services. By
+    using the Mobile Application and Services and by agreeing to this Agreement you
+    warrant and represent that you are at least 13 years of age. If you create an
+    account in the Mobile Application, you are responsible for maintaining the security
+    of your account and you are fully responsible for all activities that occur under
+    the account and any other actions taken in connection with it. We may, but have
+    no obligation to, monitor and review new accounts before you may sign in and start
+    using the Services. Providing false contact information of any kind may result
+    in the termination of your account. You must immediately notify us of any unauthorized
+    uses of your account or any other breaches of security. We will not be liable
+    for any acts or omissions by you, including any damages of any kind incurred as
+    a result of such acts or omissions. We may suspend, disable, or delete your account
+    (or any part thereof) if we determine that you have violated any provision of
+    this Agreement or that your conduct or content would tend to damage our reputation
+    and goodwill. If we delete your account for the foregoing reasons, you may not
+    re-register for our Services. We may block your email address and Internet protocol
+    address to prevent further registration.</p><h2>Billing and payments</h2><p>You
+    shall pay all fees or charges to your account in accordance with the fees, charges,
+    and billing terms in effect at the time a fee or charge is due and payable. Where
+    Services are offered on a free trial basis, payment may be required after the
+    free trial period ends, and not when you enter your billing details (which may
+    be required prior to the commencement of the free trial period). If auto-renewal
+    is enabled for the Services you have subscribed for, you will be charged automatically
+    in accordance with the term you selected. If, in our judgment, your purchase constitutes
+    a high-risk transaction, we will require you to provide us with a copy of your
+    valid government-issued photo identification, and possibly a copy of a recent
+    bank statement for the credit or debit card used for the purchase. We reserve
+    the right to change products and product pricing at any time. We also reserve
+    the right to refuse any order you place with us. We may, in our sole discretion,
+    limit or cancel quantities purchased per person, per household or per order. These
+    restrictions may include orders placed by or under the same customer account,
+    the same credit card, and/or orders that use the same billing and/or shipping
+    address. In the event that we make a change to or cancel an order, we may attempt
+    to notify you by contacting the e-mail and/or billing address/phone number provided
+    at the time the order was made.</p><h2>Accuracy of information</h2><p>Occasionally
+    there may be information in the Mobile Application that contains typographical
+    errors, inaccuracies or omissions that may relate to product descriptions, pricing,
+    availability, promotions and offers. We reserve the right to correct any errors,
+    inaccuracies or omissions, and to change or update information or cancel orders
+    if any information in the Mobile Application or Services is inaccurate at any
+    time without prior notice (including after you have submitted your order). We
+    undertake no obligation to update, amend or clarify information in the Mobile
+    Application including, without limitation, pricing information, except as required
+    by law. No specified update or refresh date applied in the Mobile Application
+    should be taken to indicate that all information in the Mobile Application or
+    Services has been modified or updated.</p><h2>Links to other resources</h2><p>Although
     the Mobile Application and Services may link to other resources (such as websites,
     mobile applications, etc.), we are not, directly or indirectly, implying any approval,
     association, sponsorship, endorsement, or affiliation with any linked resource,
@@ -192,7 +192,7 @@ page_sections:
     you to contact us using the details below:</p><p><a href="https://spreefortythree.freshdesk.com"
     title="https://spreefortythree.freshdesk.com" target="_blank">https://spreefortythree.freshdesk.com</a></p><p>support@spreefortythree.com</p><p>This
     document was last updated on November 24, 2021</p>'
-  headline: Terms and conditions
+  headline: ''
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2021/04/01/websitelogoicon.svg"

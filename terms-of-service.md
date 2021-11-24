@@ -36,7 +36,7 @@ page_sections:
   col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
-  content: '<h1>Terms and conditions</h1><p>These terms and conditions (“Agreement”)
+  content: '<h1>Terms and conditions</h1><p></p><p>These terms and conditions (“Agreement”)
     set forth the general terms and conditions of your use of the “Aviator Logbook”
     mobile application (“Mobile Application” or “Service”) and any of its related
     products and services (collectively, “Services”). This Agreement is legally binding
@@ -112,15 +112,12 @@ page_sections:
     circumstances, consider exceptions to this rule, but this shall be at our own
     discretion.</p><h2>Purchases made via the Google Play Store</h2><p>All purchases
     made via the Google Play Store are subject to the Google Play Terms of Service,
-    which at the time of writing are available here: [<a href="https://play.google.com/about/play-terms/index.html."
-    title="https://play.google.com/about/play-terms/index.html." target="_blank">https://play.google.com/about/play-terms/index.html.</a>](<a
-    href="https://play.google.com/about/play-terms/index.html." title="https://play.google.com/about/play-terms/index.html."
-    target="_blank">https://play.google.com/about/play-terms/index.html.</a>)</p><h2>Purchases
+    which at the time of writing are available here: <a href="https://play.google.com/about/play-terms/index.html."
+    title="https://play.google.com/about/play-terms/index.html." target="_blank">https://play.google.com/about/play-terms/index.html</a>.</p><h2>Purchases
     made via the App Store</h2><p>All purchases made via the App Store are subject
     to the Apple Media Services Terms and Conditions, which at the time of writing
-    are available here: [<a href="https://www.apple.com/legal/internet-ser" title="https://www.apple.com/legal/internet-ser"
-    target="_blank">https://www.apple.com/legal/internet-ser</a>…html.](<a href="https://www.apple.com/legal/internet-services/itunes/us/terms.html."
-    title="https://www.apple.com/legal/internet-services/itunes/us/terms.html." target="_blank">https://www.apple.com/legal/internet-services/itunes/us/terms.html.</a>)</p><h2>Intellectual
+    are available here: <a href="https://www.apple.com/legal/internet-services/itunes/us/terms.html."
+    title="https://www.apple.com/legal/internet-services/itunes/us/terms.html." target="_blank">https://www.apple.com/legal/internet-services/itunes/us/terms.html</a>.</p><h2>Intellectual
     property rights</h2><p>“Intellectual Property Rights” means all present and future
     rights conferred by statute, common law or equity in or in relation to any copyright
     and related rights, trademarks, designs, patents, inventions, goodwill and the
@@ -203,10 +200,8 @@ page_sections:
     If you do not agree to abide by the terms of this Agreement, you are not authorized
     to access or use the Mobile Application and Services.</p><h2>Contacting us</h2><p>If
     you have any questions, concerns, or complaints regarding this Agreement, we encourage
-    you to contact us using the details below:</p><p>[<a href="https://spreefortythree.freshdesk.com"
-    title="https://spreefortythree.freshdesk.com" target="_blank">https://spreefortythree.freshdesk.com</a>](<a
-    href="https://spreefortythree.freshdesk.com" title="https://spreefortythree.freshdesk.com"
-    target="_blank">https://spreefortythree.freshdesk.com</a>)</p><p>[support@spreefortythree.com](mailto:support@spreefortythree.com)</p><p>This
+    you to contact us using the details below:</p><p><a href="https://spreefortythree.freshdesk.com"
+    title="https://spreefortythree.freshdesk.com" target="_blank">https://spreefortythree.freshdesk.com</a></p><p>support@spreefortythree.com</p><p>This
     document was last updated on November 24, 2021</p>'
   headline: ''
 menu:

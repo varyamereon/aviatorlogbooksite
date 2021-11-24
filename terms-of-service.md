@@ -170,15 +170,6 @@ page_sections:
     transactions entered into through the Service unless stated otherwise. No advice
     or information, whether oral or written, obtained by you from us or through the
     Service shall create any warranty not expressly made herein.</p>"
-- template: 4-column-footer
-  block: footer-2
-  image: "/uploads/2021/04/01/websitelogoicon.svg"
-  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
-    title="Pricing" target="_blank">Pricing</a>
-  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
-    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
-    href="/privacy" title="Privacy" target="_blank">Privacy</a>
-  col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
   headline: Limitation of liability
@@ -199,10 +190,28 @@ page_sections:
     occurrence giving rise to such liability. The limitations and exclusions also
     apply if this remedy does not fully compensate you for any losses or fails of
     its essential purpose.</p>"
+- template: 4-column-footer
+  block: footer-2
+  image: "/uploads/2021/04/01/websitelogoicon.svg"
+  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
+    title="Pricing" target="_blank">Pricing</a>
+  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
+    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
+    href="/privacy" title="Privacy" target="_blank">Privacy</a>
+  col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
-  headline: ''
-  content: ''
+  headline: Severability
+  content: "<p>All rights and restrictions contained in this Agreement may be exercised
+    and shall be applicable and binding only to the extent that they do not violate
+    any applicable laws and are intended to be limited to the extent necessary so
+    that they will not render this Agreement illegal, invalid or unenforceable. If
+    any provision or portion of any provision of this Agreement shall be held to be
+    illegal, invalid or unenforceable by a court of competent jurisdiction, it is
+    the intention of the parties that the remaining provisions or portions thereof
+    shall constitute their agreement with respect to the subject matter hereof, and
+    all such remaining provisions or portions thereof shall remain in full force and
+    effect.</p>"
 - template: detail-content
   block: text-1
   headline: ''

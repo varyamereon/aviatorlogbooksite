@@ -59,16 +59,6 @@ page_sections:
     establish statistical information regarding the usage and traffic of the Services.
     This statistical information is not otherwise aggregated in such a way that would
     identify any particular User of the system.</p>"
-- template: 4-column-footer
-  block: footer-2
-  image: "/uploads/2021/04/01/websitelogoicon.svg"
-  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
-    title="Pricing" target="_blank">Pricing</a>
-  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
-    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
-    href="/privacy" title="Privacy" target="_blank">Privacy</a><br><a href="/terms-of-service"
-    title="Terms of Service" target="_blank">Terms of Service</a>
-  col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
   headline: Collection of personal information
@@ -87,10 +77,30 @@ page_sections:
     can choose not to provide us with your Personal Information, but then you may
     not be able to take advantage of some of the features on the Services. Users who
     are uncertain about what information is mandatory are welcome to contact us.</p>"
+- template: 4-column-footer
+  block: footer-2
+  image: "/uploads/2021/04/01/websitelogoicon.svg"
+  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
+    title="Pricing" target="_blank">Pricing</a>
+  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
+    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
+    href="/privacy" title="Privacy" target="_blank">Privacy</a><br><a href="/terms-of-service"
+    title="Terms of Service" target="_blank">Terms of Service</a>
+  col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
-  headline: ''
-  content: ''
+  headline: Privacy of children
+  content: "<p>We do not knowingly collect any Personal Information from children
+    under the age of 13. If you are under the age of 13, please do not submit any
+    Personal Information through the Services. If you have reason to believe that
+    a child under the age of 13 has provided Personal Information to us through the
+    Services, please contact us to request that we delete that child’s Personal Information
+    from our Services.</p><p>We encourage parents and legal guardians to monitor their
+    children’s Internet usage and to help enforce this Policy by instructing their
+    children never to provide Personal Information through the Services without their
+    permission. We also ask that all parents and legal guardians overseeing the care
+    of children take the necessary precautions to ensure that their children are instructed
+    to never give out Personal Information when online without their permission.</p>"
 - template: detail-content
   block: text-1
   headline: ''

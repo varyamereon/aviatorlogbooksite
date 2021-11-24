@@ -121,7 +121,14 @@ page_sections:
   headline: Purchases made via the Google Play Store
   content: '<p>All purchases made via the Google Play Store are subject to the Google
     Play Terms of Service, which at the time of writing are available here: <a href="https://play.google.com/about/play-terms/index.html."
-    title="https://play.google.com/about/play-terms/index.html." target="_blank">https://play.google.com/about/play-terms/index.html.</a></p>'
+    title="Google Play Terms of Service" target="_blank">https://play.google.com/about/play-terms/index.html.</a></p>'
+- template: detail-content
+  block: text-1
+  headline: Purchases made via the App Store
+  content: '<p>All purchases made via the App Store are subject to the Apple Media
+    Services Terms and Conditions, which at the time of writing are available here:
+    <a href="https://www.apple.com/legal/internet-services/itunes/us/terms.html."
+    title="Apple Media Services Terms and Conditions" target="_blank">https://www.apple.com/legal/internet-services/itunes/us/terms.html.</a>.</p>'
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2021/04/01/websitelogoicon.svg"
@@ -131,13 +138,6 @@ page_sections:
     href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
     href="/privacy" title="Privacy" target="_blank">Privacy</a>
   col_4: "© Spree Forty Three 2021"
-- template: detail-content
-  block: text-1
-  headline: Purchases made via the App Store
-  content: '<p>All purchases made via the App Store are subject to the Apple Media
-    Services Terms and Conditions, which at the time of writing are available here:
-    <a href="https://www.apple.com/legal/internet-services/itunes/us/terms.html."
-    title="Apple Media Services Terms and Conditions" target="_blank">https://www.apple.com/legal/internet-services/itunes/us/terms.html.</a>.</p>'
 - template: detail-content
   block: text-1
   headline: ''

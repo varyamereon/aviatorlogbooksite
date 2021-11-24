@@ -164,6 +164,17 @@ page_sections:
     Personal Information is governed by their respective privacy policies which may
     or may not contain privacy protections as protective as this Policy. We suggest
     that you review their respective privacy policies.</p>"
+- template: detail-content
+  block: text-1
+  headline: Managing information
+  content: "<p>You are able to delete certain Personal Information we have about you.
+    The Personal Information you can delete may change as the Services change. When
+    you delete Personal Information, however, we may maintain a copy of the unrevised
+    Personal Information in our records for the duration necessary to comply with
+    our obligations to our affiliates and partners, and for the purposes described
+    below. If you would like to delete your Personal Information or permanently delete
+    your account, you can do so on the settings page of your account on the Services
+    or simply by contacting us.</p>"
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2021/04/01/websitelogoicon.svg"
@@ -176,19 +187,27 @@ page_sections:
   col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
-  headline: Managing information
-  content: "<p>You are able to delete certain Personal Information we have about you.
-    The Personal Information you can delete may change as the Services change. When
-    you delete Personal Information, however, we may maintain a copy of the unrevised
-    Personal Information in our records for the duration necessary to comply with
-    our obligations to our affiliates and partners, and for the purposes described
-    below. If you would like to delete your Personal Information or permanently delete
-    your account, you can do so on the settings page of your account on the Services
-    or simply by contacting us.</p>"
-- template: detail-content
-  block: text-1
-  headline: ''
-  content: ''
+  headline: Disclosure of information
+  content: "<p>Depending on the requested Services or as necessary to complete any
+    transaction or provide any Service you have requested, we may share your information
+    with our affiliates, contracted companies, and service providers (collectively,
+    “Service Providers”) we rely upon to assist in the operation of the Services available
+    to you and whose privacy policies are consistent with ours or who agree to abide
+    by our policies with respect to Personal Information. We will not share any personally
+    identifiable information with third parties and will not share any information
+    with unaffiliated third parties.</p><p>Service Providers are not authorized to
+    use or disclose your information except as necessary to perform services on our
+    behalf or comply with legal requirements. Service Providers are given the information
+    they need only in order to perform their designated functions, and we do not authorize
+    them to use or disclose any of the provided information for their own marketing
+    or other purposes.</p><p>We may also disclose any Personal Information we collect,
+    use or receive if required or permitted by law, such as to comply with a subpoena
+    or similar legal process, and when we believe in good faith that disclosure is
+    necessary to protect our rights, protect your safety or the safety of others,
+    investigate fraud, or respond to a government request.</p><p>In the event we go
+    through a business transition, such as a merger or acquisition by another company,
+    or sale of all or a portion of its assets, your user account, and your Personal
+    Information will likely be among the assets transferred.</p>"
 - template: detail-content
   block: text-1
   headline: ''

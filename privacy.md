@@ -349,6 +349,14 @@ page_sections:
     on the Services for the purpose of being able to offer you related or additional
     products and services. If you click on an affiliate link, a cookie will be placed
     on your browser to track any sales for purposes of commissions.</p>"
+- template: detail-content
+  block: text-1
+  headline: Links to other resources
+  content: "<p>The Services contain links to other resources that are not owned or
+    controlled by us. Please be aware that we are not responsible for the privacy
+    practices of such other resources or third parties. We encourage you to be aware
+    when you leave the Services and to read the privacy statements of each and every
+    resource that may collect Personal Information.</p>"
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2021/04/01/websitelogoicon.svg"
@@ -361,16 +369,22 @@ page_sections:
   col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
-  headline: Links to other resources
-  content: "<p>The Services contain links to other resources that are not owned or
-    controlled by us. Please be aware that we are not responsible for the privacy
-    practices of such other resources or third parties. We encourage you to be aware
-    when you leave the Services and to read the privacy statements of each and every
-    resource that may collect Personal Information.</p>"
-- template: detail-content
-  block: text-1
-  headline: ''
-  content: ''
+  headline: Information security
+  content: "<p>We secure information you provide on computer servers in a controlled,
+    secure environment, protected from unauthorized access, use, or disclosure. We
+    maintain reasonable administrative, technical, and physical safeguards in an effort
+    to protect against unauthorized access, use, modification, and disclosure of Personal
+    Information in our control and custody. However, no data transmission over the
+    Internet or wireless network can be guaranteed.</p><p>Therefore, while we strive
+    to protect your Personal Information, you acknowledge that (i) there are security
+    and privacy limitations of the Internet which are beyond our control; (ii) the
+    security, integrity, and privacy of any and all information and data exchanged
+    between you and the Services cannot be guaranteed; and (iii) any such information
+    and data may be viewed or tampered with in transit by a third party, despite best
+    efforts.</p><p>As the security of Personal Information depends in part on the
+    security of the device you use to communicate with us and the security you use
+    to protect your credentials, please take appropriate measures to protect this
+    information.</p>"
 - template: detail-content
   block: text-1
   headline: ''

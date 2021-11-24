@@ -175,16 +175,6 @@ page_sections:
     below. If you would like to delete your Personal Information or permanently delete
     your account, you can do so on the settings page of your account on the Services
     or simply by contacting us.</p>"
-- template: 4-column-footer
-  block: footer-2
-  image: "/uploads/2021/04/01/websitelogoicon.svg"
-  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
-    title="Pricing" target="_blank">Pricing</a>
-  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
-    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
-    href="/privacy" title="Privacy" target="_blank">Privacy</a><br><a href="/terms-of-service"
-    title="Terms of Service" target="_blank">Terms of Service</a>
-  col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
   headline: Disclosure of information
@@ -208,10 +198,28 @@ page_sections:
     through a business transition, such as a merger or acquisition by another company,
     or sale of all or a portion of its assets, your user account, and your Personal
     Information will likely be among the assets transferred.</p>"
+- template: 4-column-footer
+  block: footer-2
+  image: "/uploads/2021/04/01/websitelogoicon.svg"
+  col_2: <a href="/features" title="Features" target="_blank">Features</a><br><a href="/pricing"
+    title="Pricing" target="_blank">Pricing</a>
+  col_3: <a href="https://docs.aviatorlogbook.app" title="Documentation" target="_blank">Documentation</a><br><a
+    href="https://spreefortythree.freshdesk.com" title="Support" target="_blank">Support</a><br><a
+    href="/privacy" title="Privacy" target="_blank">Privacy</a><br><a href="/terms-of-service"
+    title="Terms of Service" target="_blank">Terms of Service</a>
+  col_4: "© Spree Forty Three 2021"
 - template: detail-content
   block: text-1
-  headline: ''
-  content: ''
+  headline: Retention of information
+  content: "<p>We will retain and use your Personal Information for the period necessary
+    to comply with our legal obligations, as long as your user account remains active,
+    to enforce our agreements, resolve disputes, and unless a longer retention period
+    is required or permitted by law.</p><p>We may use any aggregated data derived
+    from or incorporating your Personal Information after you update or delete it,
+    but not in a manner that would identify you personally. Once the retention period
+    expires, Personal Information shall be deleted. Therefore, the right to access,
+    the right to erasure, the right to rectification, and the right to data portability
+    cannot be enforced after the expiration of the retention period.</p>"
 - template: detail-content
   block: text-1
   headline: ''

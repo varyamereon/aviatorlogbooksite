@@ -255,6 +255,5 @@ page_sections:
 menu:
   main:
     weight: 4
-published: false
 
 ---
